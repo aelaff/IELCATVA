@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "name": "Actions & Activities",
+        "image": ""
+    },
+    {
+        "id": 2,
+        "name": "Adverbs",
+        "image": ""
+    },
+    {
+        "id": 3,
+        "name": "Animals",
+        "image": ""
+    },
+    {
+        "id": 4,
+        "name": "Body Parts",
+        "image": ""
+    },
+    {
+        "id": 5,
+        "name": "Colors",
+        "image": ""
+    },
+    {
+        "id": 6,
+        "name": "Concepts",
+        "image": ""
+    },
+    {
+        "id": 7,
+        "name": "Conjunctions",
+        "image": ""
+    },
+    {
+        "id": 8,
+        "name": "Directions",
+        "image": ""
+    },
+    {
+        "id": 9,
+        "name": "Education",
+        "image": ""
+    },
+    {
+        "id": 10,
+        "name": "Entertainment",
+        "image": ""
+    },
+    {
+        "id": 11,
+        "name": "Events",
+        "image": ""
+    },
+    {
+        "id": 12,
+        "name": "Family & Relationships",
+        "image": ""
+    },
+    {
+        "id": 13,
+        "name": "Feelings & Emotions",
+        "image": ""
+    },
+    {
+        "id": 14,
+        "name": "Finance",
+        "image": ""
+    },
+    {
+        "id": 15,
+        "name": "Food & Drink",
+        "image": ""
+    },
+    {
+        "id": 16,
+        "name": "Language & Communication",
+        "image": ""
+    },
+    {
+        "id": 17,
+        "name": "Math",
+        "image": ""
+    },
+    {
+        "id": 18,
+        "name": "Measurement",
+        "image": ""
+    },
+    {
+        "id": 19,
+        "name": "Music",
+        "image": ""
+    },
+    {
+        "id": 20,
+        "name": "Nature",
+        "image": ""
+    },
+    {
+        "id": 21,
+        "name": "Numbers",
+        "image": ""
+    },
+    {
+        "id": 22,
+        "name": "People",
+        "image": ""
+    },
+    {
+        "id": 23,
+        "name": "Perception",
+        "image": ""
+    },
+    {
+        "id": 24,
+        "name": "Places",
+        "image": ""
+    },
+    {
+        "id": 25,
+        "name": "Plants",
+        "image": ""
+    },
+    {
+        "id": 26,
+        "name": "Question Words",
+        "image": ""
+    },
+    {
+        "id": 27,
+        "name": "Science & Technology",
+        "image": ""
+    },
+    {
+        "id": 28,
+        "name": "Shapes",
+        "image": ""
+    },
+    {
+        "id": 29,
+        "name": "Time & Calendar",
+        "image": ""
+    },
+    {
+        "id": 30,
+        "name": "Weather",
+        "image": ""
+    },
+    {
+        "id": 31,
+        "name": "Adjectives",
+        "image": ""
+    },
+    {
+        "id": 32,
+        "name": "Days & Weeks",
+        "image": ""
+    },
+    {
+        "id": 33,
+        "name": "Health",
+        "image": ""
+    },
+    {
+        "id": 34,
+        "name": "Occupations",
+        "image": ""
+    },
+    {
+        "id": 35,
+        "name": "Transportation",
+        "image": ""
+    },
+    {
+        "id": 36,
+        "name": "Objects & Things",
+        "image": ""
+    }
+]

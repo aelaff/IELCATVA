@@ -1,0 +1,2105 @@
+WordID;TurkishWord;EnglishWord;Category;Difficulty
+1;Abi;Older brother;1;2
+2;Abla;Older sister;1;2
+3;Acaba;I wonder;2;3
+4;Acı;Pain, bitter, spicy;2;2
+5;Açık;Open;3;2
+6;Acıkmak;To be hungry;3;3
+7;Acil;Emergency;3;2
+8;Açmak;To open;3;2
+9;Ad;Name;4;1
+10;Adam;Man;1;3
+11;Adet;Piece, unit;4;2
+12;Adım;Step;4;3
+13;Adres;Address;4;2
+14;Ağaç;Tree;4;2
+15;Ağır;Heavy;4;2
+16;Ağız;Mouth;4;2
+17;Ağlamak;To cry;2;3
+18;Aile;Family;1;2
+19;Akıl;Mind;4;2
+20;Akıllı;Smart, clever;4;3
+21;Akmak;To flow;3;2
+22;Akşam;Evening;5;3
+23;Alan;Area;3;3
+24;Alışmak;To adjust;3;3
+25;Alışveriş yapmak;To go shopping;3;6
+26;Allah;God;4;2
+27;Almak;To take;3;2
+28;Altı;Six;6;2
+29;Altın;Gold;4;3
+30;Altmış;Sixty;6;2
+31;Ama;But;7;2
+32;Amaç;Purpose;4;2
+33;Amca;Uncle (father's brother);1;2
+34;An;Moment;5;2
+35;Anlam;Meaning;1;3
+36;Anlamak;To understand;3;3
+37;Anlaşılmak;To be understood;3;4
+38;Anlatmak;To explain;3;3
+39;Anne;Mother;1;2
+40;Apartman;Apartment building;8;4
+41;Araba;Car;4;3
+42;Araç;Tool, vehicle;4;2
+43;Aralık;December;5;3
+44;Aramak;To search for, to call (on the phone);3;3
+45;Araştırmak;To research;3;4
+46;Arı;Bee;4;2
+47;Arkadaş;Friend;1;3
+48;Armut;Pear;4;2
+49;Artık;Anymore (these days);3;2
+50;Artmak;To increase;3;2
+51;Asıl;Actual;3;2
+52;Aşırı;Extreme;3;3
+53;Aşk;Romantic love;2;1
+54;Asker;Soldier;4;2
+55;Asla;Never;7;2
+56;Aslında;Actually;7;3
+57;At;Horse;4;1
+58;Ateş;Fire;4;2
+59;Atlamak;To jump;3;3
+60;Atmak;To throw;3;2
+61;Ay;Moon, month;5;1
+62;Ayak;Foot;4;2
+63;Ayakkabı;Shoe;4;4
+64;Ayı;Bear;4;2
+65;Ayırmak;To separate;3;3
+66;Ayna;Mirror;4;2
+67;Aynı;Similar;7;2
+68;Ayrı;Separate;7;2
+69;Ayrılmak;To be separated;1;3
+70;Az;Little;6;1
+71;Baba;Dad;1;2
+72;Bacak;Leg;4;2
+73;Bağırmak;To shout;3;3
+74;Bağlamak;To tie, to connect;3;3
+75;Bahçe;Garden;8;2
+76;Bakan;Minister (government);4;3
+77;Bakış;View;4;2
+78;Bakmak;To look;3;2
+79;Balık;Fish;4;2
+80;Banka;Bank;4;2
+81;Bant;Tape, band, strip;4;1
+82;Banyo;Bathroom (with a shower or bath);8;2
+83;Bardak;Glass (cup);4;2
+84;Barış;Peace (not at war);4;2
+85;Baş;Head;4;1
+86;Başarı;Success;4;3
+87;Basit;Basic, simple;7;2
+88;Başka;Other;7;2
+89;Başkan;President, chairman;4;3
+90;Baskı;Pressure;4;2
+91;Başlamak;To start;3;3
+92;Basmak;To step, to press;3;2
+93;Batı;West;5;2
+94;Batmak;To sink;3;2
+95;Battaniye;Blanket;4;4
+96;Bayrak;Flag;4;2
+97;Bayram;Holiday;5;3
+98;Bazen;Sometimes;7;3
+99;Bazı;Some;7;2
+100;Bebek;Baby;1;2
+101;Bedava;Free;7;3
+102;Beden;Body (or clothing size);4;3
+103;Beğenmek;To like;3;3
+104;Bekâr;Single (not married);1;1
+105;Beklemek;To wait;3;3
+106;Bel;Waist, lower back;4;1
+107;Belediye;Municipality;4;4
+108;Belge;Document;4;2
+109;Belki;Maybe;7;2
+110;Belli;Clear, obvious;7;2
+111;Benzemek;To look like;3;3
+112;Benzin;Gasoline;4;3
+113;Beraber;Together;7;3
+114;Beş;Five;6;1
+115;Bey;Mr.;4;1
+116;Beyaz;White;7;2
+117;Beyin;Brain;4;3
+118;Bez;Cloth (or diaper);4;1
+119;Bıçak;Knife;4;2
+120;Biçim;Shape;7;3
+121;Bilet;Ticket;4;2
+122;Bilgi;Information;4;2
+123;Bilgisayar;Computer;4;4
+124;Bilim;Science;4;3
+125;Bilmek;To know;3;2
+126;Bin;Thousand;6;2
+127;Bina;Building;8;2
+128;Binmek;To ride, to get on (a bus);3;2
+129;Bir;One;9;1
+130;Bırakmak;To leave something;3;3
+131;Biraz;A little;7;2
+132;Birçok;A lot;7;2
+133;Biri;Someone, one of them;9;2
+134;Birinci;First;7;3
+135;Birisi;Someone;9;3
+136;Birkaç;A few;7;2
+137;Birlikte;Together;7;3
+138;Bitirmek;To finish (something);3;3
+139;Bitki;Plant;4;2
+140;Bitmek;To be finished;3;2
+141;Böcek;Bug;4;2
+142;Boğaz;Throat;8;2
+143;Bölge;Region;8;2
+144;Bölmek;To divide;3;2
+145;Bölüm;Division, chapter;8;3
+146;Boru;Pipe;4;2
+147;Boş;Empty;7;1
+148;Boşaltmak;To empty (something);3;3
+149;Boşanmak;To get divorced;3;3
+150;Boy;Size;4;1
+151;Boyamak;To paint, to dye (something);3;3
+152;Boyun;Neck;4;3
+153;Bozuk;Broken (stopped working);7;2
+154;Bozulmak;To be broken (stop working);3;3
+155;Bugün;Today;5;3
+156;Bulmak;To find;3;2
+157;Buluşmak;To meet up with;3;3
+158;Burada;Here, at/in this place;8;3
+159;Burası;This place;8;3
+160;Burun;Nose;4;3
+161;Bütün;All, entire;7;3
+162;Büyük;Big;7;2
+163;Büyümek;To grow (bigger);3;3
+164;Çabuk;Quick;7;2
+165;Cadde;Street;8;2
+166;Çağırmak;To invite, to call;3;3
+167;Çalışmak;To work;3;3
+168;Çalmak;To steal, to play (an instrument);3;2
+169;Cam;Glasses;4;2
+170;Çamaşır;Laundry;4;3
+171;Cami;Mosque;8;2
+172;Can;Life, soul;4;2
+173;Canlı;Alive, live broadcast;7;2
+174;Çanta;Bag (backpack, purse);4;2
+175;Çarpmak;To crash;3;2
+176;Çarşamba;Wednesday;5;3
+177;Çatal;Fork;4;2
+178;Çay;Tea;4;1
+179;Çaydanlık;Teapot;4;3
+180;Çekmek;To pull;3;2
+181;Çeşit;Type, variety;7;2
+182;Cevap vermek;To answer;3;4
+183;Çevirmek;To flip, to translate something;3;3
+184;Çevre;Environment;8;2
+185;Çeyrek;Quarter (25%);6;2
+186;Ceza;Punishment;4;2
+187;Çiçek;Flower;4;2
+188;Ciddi;Serious;7;2
+189;Çift;Double;6;1
+190;Çiftçi;Farmer;10;2
+191;Cihaz;Electronic device;4;2
+192;Çıkarmak;To take off, to remove;3;3
+193;Çıkmak;To leave, climb;3;2
+194;Çirkin;Ugly;7;3
+195;Çizgi;Line, drawing;4;2
+196;Çocuk;Child;1;2
+197;Çok;Very, many;7;1
+198;Çorap;Sock;4;2
+199;Çözmek;To solve, to untie;3;2
+200;Çözüm;Resolution;4;3
+201;Cuma;Friday;5;2
+202;Cumartesi;Saturday;5;4
+203;Cümle;Sentence;11;2
+204;Çünkü;Because;12;2
+205;Dağ;Mountain;8;1
+206;Daha az;Less;13;3
+207;Daha çok;More;13;3
+208;Daire;Apartment, circle;8;2
+209;Dakika;Minute;5;3
+210;Damla;Drop (of liquid);4;2
+211;Dans etmek;To dance;3;3
+212;Davet etmek;To invite;3;4
+213;Davranış;behavior;3;3
+214;Davranmak;To behave (in a certain way);3;3
+215;Dayanmak;To endure;3;3
+216;Defter;Notebook;4;2
+217;Değer;Value;4;2
+218;Değil;Not;12;2
+219;Değişmek;(For something) to change;3;3
+220;Değiştirmek;To change (something);3;4
+221;Delik;Hole;4;2
+222;Demek;To say, it means...;11;2
+223;Denemek;To try;3;3
+224;Denge;Balance;4;2
+225;Deniz;Sea;8;2
+226;Deprem;Earthquake;14;3
+227;Derece;Degrees (temperature);6;3
+228;Deri;Skin;4;2
+229;Derin;Deep;7;3
+230;Ders;Class;15;1
+231;Destek;Support;3;2
+232;Devam etmek;To continue;3;4
+233;Devlet;Government;4;2
+234;Diğer;The other (one);7;2
+235;Dik;Steep;7;1
+236;Dikkat etmek;To be careful;3;4
+237;Dil;Tongue (or language);11;1
+238;Din;Religion;16;2
+239;Dinlemek;To listen;3;3
+240;Dinlenmek;To rest;3;3
+241;Dirilmek;To be resurrected;3;3
+242;Diş;Tooth;4;1
+243;Diz;Knee;17;1
+244;Doğal;Natural;7;2
+245;Doğal gaz;Natural Gas;4;3
+246;Doğmak;To be born;3;2
+247;Doğru;Right;7;2
+248;Doğu;East;8;2
+249;Doksan;Ninety;6;3
+250;Doktor;Doctor;10;2
+251;Dokuz;Nine;6;2
+252;Dolap;Cabinet;4;2
+253;Dolaşmak;To wander;3;3
+254;Doldurmak;To fill;3;3
+255;Dolu;Full;7;2
+256;Dondurma;Ice cream;18;3
+257;Dönem;Period (of time);5;3
+258;Döner;Shaved Meat;3;2
+259;Dönmek;To turn;3;2
+260;Dört;Four;6;1
+261;Dost;Best friend;1;1
+262;Dosya;Folder;4;2
+263;Döviz;Foreign currency (esp. Dollars, Euro);19;2
+264;Düğün;Wedding celebration;14;3
+265;Dükkan;Shop;8;3
+266;Duman;Smoke;4;3
+267;Dün;Yesterday;5;2
+268;Dünya;Earth, world;8;2
+269;Durmak;To stop;3;2
+270;Durum;Situation;16;3
+271;Dürüm;Sandwich wrap;18;3
+272;Duş almak;To take a shower;3;3
+273;Düşmek;To fall;3;2
+274;Düşünce;Thought;16;3
+275;Düşünmek;To think;3;3
+276;Duvar;Wall;4;2
+277;Duygu;Emotion, sense;2;2
+278;Duymak;To hear, to sense;3;2
+279;Düz;Straight;7;1
+280;Düzeltmek;To correct;3;3
+281;Düzenlemek;To organize;3;4
+282;Eğitim;Education;15;4
+283;Ek;Addition, suffix;11;1
+284;Ekim;October;5;3
+285;Eklemek;To add (common speech);3;3
+286;Ekmek;Bread;18;2
+287;Ekonomi;Economy;19;4
+288;Eksik;Missing;7;2
+289;El;Hand;17;1
+290;Elbette;Certainly;13;3
+291;Eldiven;Glove;4;4
+292;Elektrik;Electricity, electric;4;3
+293;Eleman;Worker;10;4
+294;Elli;Fifty;6;2
+295;Elma;Apple;18;2
+296;Emekli;Retired;10;3
+297;Emin;Certain;7;3
+298;Emlakçı;Realtor;10;3
+299;En;Most (or width);7;2
+300;Enerji;Energy;4;3
+301;Enflasyon;Inflation;19;4
+302;Engel;Barrier;3;2
+303;Engelli;Disabled;7;3
+304;Erimek;To melt;3;3
+305;Erkek;Boy (or male);1;2
+306;Erken;Early;7;3
+307;Eş;Spouse, companion;1;1
+308;Eşit;Equal;7;2
+309;Eski;Old;7;2
+310;Eskiden;In the past;13;4
+311;Eşya;Furnishings, stuff;4;2
+312;Et;Meat, flesh;18;1
+313;Etki;Effect;3;2
+314;Etkilemek;To affect;3;4
+315;Etmek;To do;3;2
+316;Ev;Home;8;1
+317;Ev sahibi;Home owner;1;4
+318;Evet;Yes;11;2
+319;Evlenmek;To marry;1;3
+320;Evli;Married;1;2
+321;Eylül;September;5;2
+322;Fabrika;Factory;8;3
+323;Fakat;But;12;2
+324;Fakir;Poor;7;2
+325;Falan filan;Etc;13;5
+326;Fare;Mouse (animal or for computer);20;2
+327;Fark;Difference;16;1
+328;Fark etmek;To notice;3;3
+329;Farketmez;It doesn't matter;13;3
+330;Farklı;Different;7;2
+331;Fazla;Too much;7;2
+332;Fikir;Idea;16;2
+333;Film;Movie (film);21;2
+334;Fincan;(Tea or turkish coffee) cup;4;3
+335;Fırsat;Opportunity;16;2
+336;Fiş;Receipt, electrical plug;4;1
+337;Fiyat;Price;19;2
+338;Fotoğraf;Photograph;4;3
+339;Galiba;Probably;13;3
+340;Gayet;Really, quite;13;2
+341;Gaz;Gas (but not gasoline);4;1
+342;Gazete;Newspaper (gazette);4;3
+343;Geç;Late;7;1
+344;Geç kalmak;To be late;3;3
+345;Gece;Night;5;2
+346;Geçen;Last (week, month, year), one that passes;7;3
+347;Geçici;Temporary;7;3
+348;Geçmek;To pass;3;2
+349;Geçmiş;Past;7;2
+350;Gelecek;Next, future;7;3
+351;Gelenek;Tradition;16;3
+352;Gelir;Income;19;2
+353;Gelmek;To come;3;2
+354;Genç;Young (person);7;1
+355;Gene;Again;13;2
+356;Genel;General;7;2
+357;Genellikle;Generally;13;4
+358;Geniş;Wide (or loose fitting);7;2
+359;Gerçek;True, truth;16;2
+360;Gerçekten;Really;13;4
+361;Gerekli;Needed;7;3
+362;Gerekmek;To be needed;3;3
+363;Geri gelmek;To come back;3;4
+364;Geri vermek;To give back;3;4
+365;Getirmek;To bring;3;3
+366;Gezmek;To explore;3;2
+367;Gibi;Like, similar to;12;2
+368;Gıda;Food (market);18;2
+369;Giriş;Entrance;8;2
+370;Girmek;To enter;3;2
+371;Gitmek;To go;3;2
+372;Giymek;To put on (clothing);3;2
+373;Giysi;Outfit (clothing);4;2
+374;Gizli;Secret (private);7;2
+375;Göbek;Stomach, belly, center;17;2
+376;Göçmen;Refugee;22;3
+377;Gök;Sky (or heaven);4;1
+378;Göl;Lake;8;1
+379;Göndermek;To send;3;3
+380;Gönül;Heart, soul;2;2
+381;Görev;Duty;3;2
+382;Görmek;To see;3;2
+383;Görünmek;To appear;3;3
+384;Görüşmek;To talk with, to meet with;3;3
+385;Göstermek;To show;3;3
+386;Götürmek;To take something somewhere;3;3
+387;Göz;Eye;17;1
+388;Gözlük;Glasses;4;2
+389;Gri;Grey;23;1
+390;Grip;Flu;24;1
+391;Grup;Group;22;1
+392;Güç;Strength;16;1
+393;Güçlü;Strong;7;2
+394;Güle güle;Bye;11;4
+395;Gülmek;To laugh (or smile);3;2
+396;Gülümsemek;To smile;3;4
+397;Gümüş;Silver;4;2
+398;Gün;Day;5;2
+399;Günah;Sin;16;2
+400;Güneş;Sun;4;2
+401;Güney;South;8;2
+402;Güven;Trust;16;3
+403;Güvenlik;Security;16;3
+404;Güvenmek;To trust;16;3
+405;Güzel;Good, pretty;7;2
+406;Haber;News;11;2
+407;Hadi;Hurry, let's go;11;2
+408;Hafif;Light (weight);7;2
+409;Hafta;Week;5;2
+410;Hafta sonu;Weekend;5;4
+411;Hâkim;Judge;10;2
+412;Haklı;Right (justified in saying something);7;2
+413;Hal;State, status;16;1
+414;Hâlâ;Still;13;1
+415;Halı;Carpet;4;2
+416;Halk;People (people group);22;1
+417;Hamburger;Hamburger;18;3
+418;Hangi;Which;9;2
+419;Hanım;Mrs.;1;3
+420;Hapishane;Jail;8;4
+421;Harcamak;To spend;3;3
+422;Hareket;Activity;3;3
+423;Harika;Wonderful;7;3
+424;Harita;Map;4;3
+425;Hasta;Sick;24;2
+426;Hastane;Hospital;8;3
+427;Hata;Mistake, imperfection;16;2
+428;Hatırlamak;To remember;3;4
+429;Hava;Air;25;2
+430;Havaalanı;Airport;8;4
+431;Havlu;Towel;4;2
+432;Havuz;Pool;4;2
+433;Hayal etmek;To dream, imagine;3;4
+434;Hayat;Life;16;2
+435;Hayır;No;11;2
+436;Hayvan;Animal;20;3
+437;Hayvanat bahçesi;Zoo;8;6
+438;Hazır;Ready;7;2
+439;Haziran;June;5;4
+440;Hedef;Target, goal;16;2
+441;Hediye;Gift;4;3
+442;Hemen;Right now;13;3
+443;Henüz;Not yet;13;2
+444;Hep;All;13;1
+445;Hepsi;All (of a group);13;2
+446;Her;Every;13;1
+447;Her gün;Every day;5;3
+448;Her şey;Everything;13;2
+449;Her zaman;All the time;13;4
+450;Herhalde;Probably;13;3
+451;Herhangi;Whichever;13;3
+452;Herkes;Everyone;22;2
+453;Hesap;Account;16;2
+454;Hesap makinası;Calculator;4;6
+455;Heyecanlanmak;To be excited;2;5
+456;Heyecanlı;Excited;7;4
+457;Hiçbir;None;13;2
+458;Hikâye;Story;11;2
+459;Hırdavatçı;Hardware store;10;4
+460;Hissetmek;To feel (emotion);2;3
+461;Hızlı;Fast;7;2
+462;Hizmet etmek;To serve;3;4
+463;Hoca;Teacher;10;2
+464;Hoş;Nice;7;1
+465;İbadet;Worship;3;3
+466;İçecek;Drink;18;3
+467;İçmek;To drink;3;2
+468;İğne;Needle (or syringe);4;2
+469;İhtiyaç;Need (basic need);16;3
+470;İki;Two;6;2
+471;İkram etmek;To treat, to give something for free;3;4
+472;İl;Province;8;1
+473;İlaç;Medicine;4;2
+474;İlçe;District (section of a province);8;2
+475;İlgi;Interest;16;2
+476;İlginç;Interesting (or strange);7;2
+477;İlişki;Relationship;16;3
+478;İlk;First;7;1
+479;İlkbahar;Spring;5;3
+480;İmkânsiz;Impossible;7;2
+481;İmza;Signature;4;2
+482;İnanç;Faith;16;2
+483;İnanmak;To believe;16;3
+484;İnce;Thin;7;2
+485;İndirim;Discount;19;4
+486;İnek;Cow;20;2
+487;İngilizce;English (language);11;4
+488;İnmek;To get off;3;2
+489;İnşaat;Construction;8;2
+490;İnsan;Person;22;3
+491;İnternet;Internet;4;3
+492;İp;Thread;4;1
+493;İptal etmek;To cancel;3;4
+494;İş;Work (profession);10;1
+495;İşçi;Worker;10;2
+496;Işık;Light;4;2
+497;İsim;Name;11;3
+498;Islak;Wet;7;2
+499;İşlem;Process;3;3
+500;İstemek;To want;3;3
+501;İyi;Good;7;2
+502;İzin;Permission, permit;16;3
+503;İzin vermek;To give permission;3;4
+504;İzlemek;To watch, to follow;3;3
+505;Kaba;Rude;7;2
+506;Kablo;Cable;4;2
+507;Kabul etmek;To accept;3;4
+508;Kaç;How many;13;1
+509;Kaçmak;To escape;3;2
+510;Kadar;Quantity;13;2
+511;Kadın;Woman;22;3
+512;Kafa;Head;17;2
+513;Kâğıt;Paper;4;1
+514;Kahraman;Hero;22;4
+515;Kahvaltı;Breakfast;18;3
+516;Kahve;Coffee;18;2
+517;Kahverengi;Brown;23;4
+518;Kalabalık;Crowded (or crowd);7;4
+519;Kaldırmak;To remove;3;3
+520;Kalem;Pen (or other writing utensil);4;3
+521;Kalıcı;Permanent;7;3
+522;Kalın;Thick;7;3
+523;Kalite;Quality;16;3
+524;Kalkmak;To rise;3;2
+525;Kalmak;To stay;3;2
+526;Kâlp;Heart;17;1
+527;Kan;Blood;17;2
+528;Kanal;Canal, channel;4;2
+529;Kanepe;Couch;4;3
+530;Kanun;Law;16;3
+531;Kapak;Cover;4;2
+532;Kapatmak;To close (something);3;3
+533;Kapı;Door;4;2
+534;Karanlık;Darkness;7;3
+535;Karar vermek;To decide;3;4
+536;Kardeş;Sibling;1;2
+537;Karı;Wife;1;2
+538;Karın;Stomach;17;3
+539;Karıştırmak;To mix;3;4
+540;Karşı;Opposite side, against;13;2
+541;Kart;Card;4;1
+542;Kasa;Checkout;4;2
+543;Kasaba;Town;8;3
+544;Kaşık;Spoon;4;2
+545;Kasım;November;5;3
+546;Kat;Floor (layer);8;1
+547;Katılmak;To join, to agree;3;3
+548;Kavşak;Roundabout;8;2
+549;Kaya;Boulder;8;2
+550;Kaybetmek;To lose;3;3
+551;Kayıt;Record;4;2
+552;Kaymak;To slide, skate (or whipped cream);18;2
+553;Kaynak;Source;4;2
+554;Kaza;Crash, accident;14;2
+555;Kazanmak;To win;3;3
+556;Kebab;Kabob;18;2
+557;Keçi;Goat;20;2
+558;Kedi;Cat;20;2
+559;Kelime;Word;11;3
+560;Kenar;Edge;8;2
+561;Kent;City;8;1
+562;Kesilmek;To be cut, to be turned off;3;3
+563;Kesin;Certain;7;3
+564;Kesinlikle;Certainly;13;4
+565;Kesmek;To cut;3;2
+566;Kibar;Polite;7;2
+567;Kılıç;Sword;4;2
+568;Kilim;Carpet, floor mat;4;3
+569;Kilitlemek;To lock;3;4
+570;Kılmak;To do, to make, to perform;3;2
+571;Kilo;Kilogram;26;2
+572;Kilometre;Kilometer;26;4
+573;Kim;Who;9;2
+574;Kimlik;Identity;4;2
+575;Kırk;Forty;6;1
+576;Kirli;Dirty;7;2
+577;Kırmızı;Red;23;3
+578;Kış;Winter;5;1
+579;Kısa;Short;7;2
+580;Kişi;Person;22;2
+581;Kısım;Part;16;3
+582;Kitap;Book;4;2
+583;Kız;Girl;22;1
+584;Kız çocuk;Girl, daughter;22;3
+585;Kız kardeş;Sister;1;3
+586;Kızarmak;To fry, to turn red;3;3
+587;Kızgın;Angry, hot;7;3
+588;Koca;Husband (or huge);22;2
+589;Koku;Smell;27;2
+590;Kol;Arm;17;1
+591;Kol saati;Wrist watch;4;3
+592;Kolay;Easy;7;2
+593;Koltuk;Couch (or armchair);4;2
+594;Kombi;Natural gas water heater;4;2
+595;Komik;Funny;7;2
+596;Kontrol etmek;To check;3;4
+597;Konu;Topic;11;2
+598;Konuşmak;To talk;3;3
+599;Köpek;Dog;20;2
+600;Kör;Blind;7;1
+601;Köri;Curry;18;2
+602;Koridor;Aisle;8;3
+603;Korkmak;To be afraid;2;2
+604;Korumak;To protect;3;3
+605;Köşe;Corner;8;2
+606;Koşmak;To run;3;2
+607;Kötü;Bad;7;2
+608;Kötülük;Evil;16;3
+609;Köy;Village;8;1
+610;Koymak;To put;3;2
+611;Koyu;Dark, intense;23;2
+612;Koyun;Sheep;20;3
+613;Kral;King;22;1
+614;Kredi;Credit (loan);19;2
+615;Kriz;Crisis;16;1
+616;Küçük;Small;7;2
+617;Kulak;Ear;17;2
+618;Kullanmak;To use;3;3
+619;Kültür;Culture;16;2
+620;Kum;Sand;4;2
+621;Kumanda;Remote control;4;3
+622;Kurabiye;Cookie;18;4
+623;Kural;Rule;16;2
+624;Kurbağa;Frog;20;3
+625;Kurban etmek;To sacrifice (an animal);3;4
+626;Kurmak;To build (a building), to establish (an organization);3;2
+627;Kurt;Wolf;20;1
+628;Kurtarmak;To save, to rescue;3;3
+629;Kurtulmak;To be saved, rescued;3;3
+630;Kuru;Dry;7;2
+631;Kuş;Bird;20;1
+632;Kusura bakma;I'm sorry (informal apology);11;5
+633;Kusursuz;Flawless, perfect;7;3
+634;Kutlamak;To celebrate;3;3
+635;Kutu;Box;4;2
+636;Kuzey;North;8;2
+637;Laf;Word, empty words;11;1
+638;Lastik;Tire;4;2
+639;Lavabo;Bathroom, bathroom sink;4;3
+640;Lâzım;Needed;16;2
+641;Lezzetli;Flavorful, good tasting;7;3
+642;Lider;Leader;22;2
+643;Limon;Lemon;18;3
+644;Lira;Lira (Turkish unit of money);19;2
+645;Lise;High school;15;2
+646;Lüks;Luxurious;7;1
+647;Lütfen;Please;11;3
+648;Maç;Sports match;14;1
+649;Madde;Material;16;2
+650;Mağaza;Store;8;3
+651;Mahalle;Neighborhood (part of an ilçe);8;3
+652;Makine;Machine;4;3
+653;Mal;Goods, property;4;1
+654;Malzeme;Ingredient, material;4;3
+655;Mantık;Logic;16;2
+656;Manzara;Scenery;8;3
+657;Marka;Brand;4;2
+658;Mart;March;5;1
+659;Masa;Table;4;2
+660;Mavi;Blue;23;2
+661;Maya;Yeast;4;2
+662;Mayıs;May;5;2
+663;Meclis;Parliament;10;2
+664;Medya;Media;16;2
+665;Mektup;Letter (mail);11;2
+666;Memleket;Homeland;8;3
+667;Merak etmek;To worry, to be curious;3;4
+668;Merdiven;Stairs, ladder;4;4
+669;Merhaba;Hello;11;3
+670;Merkez;Center;8;2
+671;Mesafe;Distance;16;3
+672;Mesaj;Message (usually text message);11;2
+673;Mesela;For example;13;3
+674;Mesele;Issue, matter;16;3
+675;Meslek;Profession;10;2
+676;Metal;Metal;4;2
+677;Metre;Meter (or tape measure);26;2
+678;Metre kare;Square meters;26;4
+679;Meydan;City square, commons;8;3
+680;Meyve;Fruit;18;2
+681;Mide;Stomach;17;2
+682;Miktar;Amount;16;2
+683;Millet;People, nation;22;2
+684;Milyar;Billion;6;2
+685;Milyon;Million;6;3
+686;Miras;Inheritance;16;2
+687;Misafir;Guest;22;3
+688;Mısır;Corn, Egypt;18;2
+689;Mor;Purple;23;1
+690;Müdür;Manager;10;2
+691;Mum;Candle;4;2
+692;Mümkün;Possible;7;3
+693;Müsait;Available;7;2
+694;Müşteri;Customer;22;3
+695;Mutfak;Kitchen;8;2
+696;Mutlaka;Absolutely;13;3
+697;Mutlu;Happy;7;2
+698;Mutsuz;Unhappy;7;2
+699;Müzik;Music;4;2
+700;Nakit;Cash;19;2
+701;Nasıl;How;9;2
+702;Ne;What;9;1
+703;Neden;Why;9;3
+704;Nefes almak;To breathe;3;4
+705;Nehir;River;8;2
+706;Nerede;Where;9;3
+707;Neredeyse;Almost;13;4
+708;Net;Clear, plain;7;1
+709;Neyse;Anyway;13;2
+710;Nisan;April;5;3
+711;Nişanlı;Engaged;1;3
+712;Niye;Why (informal);9;2
+713;Nöbetçi;Open during late hours (ER, eczane, etc);10;3
+714;Nokta;Point (or period);4;2
+715;Normal;Normal;7;2
+716;Normalde;Normally;13;3
+717;Numara;Number;4;3
+718;Öbür;The other (one);7;2
+719;Ocak;January (or stove);5;2
+720;Oda;Room;8;2
+721;Ödemek;To pay (money);19;3
+722;Odun;Log;4;3
+723;Öğrenci;Student;10;3
+724;Öğretmek;To teach;3;3
+725;Öğretmen;Teacher;10;4
+726;Oğul;Son;1;2
+727;Okul;School;8;2
+728;Okumak;To read, study;3;3
+729;Okyanus;Ocean;8;3
+730;Olay;Event;14;2
+731;Oldukça;Really;13;3
+732;Öldürmek;To kill;3;3
+733;Olmak;To be, to become;3;2
+734;Ölmek;To die;3;2
+735;Ölüm;Death;16;3
+736;Olur;Okay;13;2
+737;On;Ten;6;2
+738;Onaylamak;To condone, accept;3;4
+739;Önce;Before;13;2
+740;Önemli;Important;7;3
+741;Orman;Forest;8;3
+742;Örneğin;For example;13;4
+743;Örnek;Example;16;2
+744;Orta;Middle, center;7;2
+745;Ortak;Shared;7;2
+746;Örümcek;Spider;20;3
+747;Ot;Feed (for an animal);4;1
+748;Otel;Hotel;8;2
+749;Otobüs;Bus;28;3
+750;Otomobil;Automobile;28;4
+751;Oturmak;To sit;3;3
+752;Otuz;Thirty;6;2
+753;Öykü;Story;11;2
+754;Öyle;That way, like that;13;2
+755;Oynamak;To play;3;3
+756;Oyun;Game;29;3
+757;Oyuncak;Toy;4;3
+758;Özel;Special;7;2
+759;Özellikle;Especially;13;4
+760;Özgür;Free (not enslaved);7;2
+761;Özlemek;To miss (someone);2;3
+762;Özür dilerim;I'm sorry (for a wrong I've done);11;6
+763;Pahalı;Expensive;7;3
+764;Pamuk;Cotton;4;2
+765;Pantolon;Pants;4;4
+766;Para;Money;19;2
+767;Parça;Part;4;2
+768;Parmak;Finger;17;2
+769;Parti;Party;14;2
+770;Pastane;Bakery;8;3
+771;Patlamak;To explode, to pop;3;3
+772;Patlıcan;Eggplant;18;4
+773;Patron;Employer, boss;10;3
+774;Paylaşmak;To share;3;3
+775;Pazar;Sunday (or bazaar);5;2
+776;Pazartesi;Monday;5;4
+777;Pek;Very;13;1
+778;Peki;Well;13;2
+779;Pembe;Pink;23;2
+780;Pencere;Window;4;3
+781;Perde;Curtains;4;2
+782;Perşembe;Thursday;5;3
+783;Peşin;Paid up front (not in installments);7;3
+784;Pişman;Regretful;7;3
+785;Plan;Plan;16;2
+786;Polis;Police officer;10;2
+787;Portakal;Orange;18;3
+788;Problem;Problem;16;3
+789;Program;Schedule, computer program;4;3
+790;Proje;Project;16;2
+791;Puan;Point (in a game);4;2
+792;Rahat;Comfortable;7;2
+793;Reddetmek;To refuse;3;3
+794;Reklam;Advertisement;16;3
+795;Renk;Color;23;1
+796;Resim;Picture;4;3
+797;Ruh;Spirit;17;1
+798;Rüya;Dream;11;2
+799;Rüzgâr;Wind;25;1
+800;Saat;Time, hour;4;1
+801;Sabah;Morning;5;2
+802;Sabırlı;Patient;7;3
+803;Sabun;Soap;4;3
+804;Saç;Hair;17;1
+805;Sade;Plain, unsweetened;7;2
+806;Sadece;Only;13;3
+807;Sağlamak;To provide;3;3
+808;Sağlık;health;16;2
+809;Sağol;Thanks;11;2
+810;Sahip;Owner;16;2
+811;Sakin;Calm;7;3
+812;Saklamak;To store, to hide (something);3;3
+813;Salatalık;Cucumber;18;4
+814;Salı;Tuesday;5;2
+815;Salon;Living room;8;3
+816;Sanat;Art;16;2
+817;Sandalye;Chair;4;3
+818;Saniye;Second;26;3
+819;Sanki;As if;13;2
+820;Sanmak;To think, suppose;3;2
+821;Şans;Chance;16;1
+822;Şapka;Hat;4;2
+823;Sarı;Yellow;23;2
+824;Şarj;Charge (for a phone or other device);4;1
+825;Şarkı;Song;11;2
+826;Şart;Condition, need;16;1
+827;Satın almak;To purchase;3;4
+828;Satmak;To sell;3;2
+829;Savaş;War;14;2
+830;Sayfa;Page;4;2
+831;Saygı;Respect;16;2
+832;Sayı;Number;6;2
+833;Sebep;Reason, cause;16;2
+834;Sebze;Vegetable;18;2
+835;Seçim;Choice, election;16;3
+836;Seçmek;To choose;3;2
+837;Şehir;City;8;2
+838;Sehpa;Coffee table;4;2
+839;Şeker;Sugar;18;2
+840;Şekil;Shape;16;2
+841;Sekiz;Eight;6;2
+842;Seksan;Eighty;6;3
+843;Sene;Year;5;2
+844;Sepet;Basket;4;2
+845;Serbest;Free (independent);7;2
+846;Sert;Hard, harsh;7;1
+847;Servis;Shuttle, place setting;16;2
+848;Ses;Sound;27;1
+849;Ses kaydı yapmak;To record (sound);3;5
+850;Sevgi;Love;2;2
+851;Sevinmek;To rejoice, to be happy;2;3
+852;Sevmek;To love;2;2
+853;Şey;Thing;16;1
+854;Seyretmek;To watch;3;3
+855;Sıcak;Warm, friendly;7;2
+856;Şifre;Password;4;2
+857;Sigara;Cigarette;4;3
+858;Sigorta;Insurance;19;3
+859;Şiir;Poem;11;1
+860;Şikayet etmek;To complain;3;5
+861;Sıkılmak;To be bored with;2;3
+862;Sıkıntı;Trouble;2;3
+863;Silah;Weapon;4;2
+864;Silmek;To erase;3;2
+865;Şimdi;Now;13;2
+866;Sınav;Exam;14;2
+867;Sinek;Fly (or other similar bug);20;2
+868;Sınıf;Class;15;2
+869;Sınır;Border, limit;8;2
+870;Sinirlenmek;To be angry;2;4
+871;Sipariş vermek;To place an order;3;5
+872;Sıra;Turn, queue;16;2
+873;Sirke;Vinegar;18;2
+874;Şirket;Company;10;2
+875;Sırt;Back;17;1
+876;Şişe;Bottle;4;2
+877;Sistem;System;16;3
+878;Sıvı;Liquid;4;2
+879;Siyah;Black;23;2
+880;Siyaset;Politics;16;3
+881;Soğuk;Cold;7;2
+882;Sohbet etmek;To chat;3;4
+883;Sokak;Street, side road;8;2
+884;Sokmak;To insert, to sting;3;2
+885;Sol;Left;30;1
+886;Son;Last;7;2
+887;Sonbahar;Fall;5;3
+888;Sonra;After;13;2
+889;Sonsuz;Forever;7;2
+890;Sonuç;Result;16;2
+891;Sormak;To ask;3;2
+892;Soru;Question;11;2
+893;Sorun;Problem;16;3
+894;Sos;Sauce;18;1
+895;Sosyal;Social;7;2
+896;Sote;Saute;18;2
+897;Söylemek;To say;11;3
+898;Söz;Word, promise;11;1
+899;Spor yapmak;To exercise;29;3
+900;Su;Water;4;1
+901;Şubat;February;5;2
+902;Suç;Crime, fault;16;1
+903;Sunmak;To offer, present;3;2
+904;Şüphe;Suspicion, doubt;2;2
+905;Süre;Duration;16;2
+906;Sürekli;Continuously;7;3
+907;Sürmek;To spread, to drive;3;2
+908;Sürpriz;Surprise;16;2
+909;Sürücü;Driver;10;3
+910;Susamak;To be thirsty;2;3
+911;Süt;Milk;18;1
+912;Tabak;Plate;4;2
+913;Tabii;Of course;13;2
+914;Tahmin etmek;To predict;3;4
+915;Tahta;Wood;4;2
+916;Takım;Team;4;3
+917;Takip etmek;To follow;3;4
+918;Takmak;To hang up, to attach;3;2
+919;Taksit;Payment in installments;19;2
+920;Talep;Request;3;2
+921;Tam;Exact, whole;7;2
+922;Tamam;Okay, finished;13;3
+923;Tamir etmek;To repair;3;4
+924;Tane;Piece, unit;4;2
+925;Tanımak;To know (person);3;3
+926;Tanışmak;To meet (for the first time);3;3
+927;Taraf;Side;16;2
+928;Tarih;Date, history;5;2
+929;Tartışmak;To argue;3;3
+930;Tarz;Style;16;1
+931;Taş;Stone;4;1
+932;Taşımak;To carry, to move;3;3
+933;Tatil;Vacation;5;2
+934;Tatlı;Sweet, dessert;18;2
+935;Tavan;Ceiling;4;3
+936;Tavşan;Rabbit;20;3
+937;Tavsiye etmek;To recommend;3;5
+938;Taze;Fresh;7;2
+939;Tebrik etmek;To congratulate;3;4
+940;Tedavi;Therapy;3;3
+941;Tehlike;Danger;16;3
+942;Tek;Single, only;7;1
+943;Teknik;Technical, tecnique;16;2
+944;Teknoloji;Technology;16;4
+945;Tekrar;Again;13;2
+946;Telefon;Telephone;4;4
+947;Televizyon;Television;4;5
+948;Tembel;Lazy;7;2
+949;Temel;Foundation;7;2
+950;Temiz;Clean;7;2
+951;Temizlemek;To clean (something);3;4
+952;Temmuz;July;5;2
+953;Tencere;Pot;4;3
+954;Tepe;Hill;8;2
+955;Tepki;Reaction;16;2
+956;Tepsi;Tray;4;2
+957;Ter;Sweat;17;1
+958;Tercih etmek;To prefer;3;4
+959;Terlik;Slippers;4;2
+960;Ters;Backwards;7;1
+961;Teyze;Aunt (Mother's sister);22;2
+962;Tip;Type;16;1
+963;Top;Ball;4;1
+964;Toplam;Total;7;3
+965;Toplamak;To gather (or add numbers);3;3
+966;Toplantı;Meeting;14;3
+967;Toplum;Society;16;3
+968;Toprak;Dirt;8;2
+969;Toz;Dust (or powder);4;1
+970;Trafik;Traffic;16;2
+971;Tren;Train;28;2
+972;Tüm;All, entire;7;2
+973;Tür;Type;16;1
+974;Türkçe;Turkish;11;2
+975;Turuncu;Orange (the color, not the fruit);23;3
+976;Tutmak;To catch, to hold;3;2
+977;Tuvalet;Toilet;8;3
+978;Tuz;Salt;18;1
+979;Uç;Point;7;1
+980;Üç;Three;6;1
+981;Uçak;Airplane;28;2
+982;Uçmak;To fly;3;2
+983;Ücret;Price (or salary);19;2
+984;Üçüncü;Third;6;3
+985;Ucuz;Cheap;7;2
+986;Ufak;Tiny;7;2
+987;Uğraşmak;To struggle;3;3
+988;Ulaşmak;To arrive;3;3
+989;Ülke;Country;8;2
+990;Uluslararası;International;8;6
+991;Ummak;To hope;2;2
+992;Üniversite;University;15;5
+993;Ünlü;Famous;7;2
+994;Unutmak;To forget;3;3
+995;Ürün;Product;4;3
+996;Usta;Expert, craftsman;10;2
+997;Üşümek;To be cold;2;3
+998;Utanmak;To be shy;2;3
+999;Uyanık;Awake;7;3
+1000;Üye;Member;22;2
+1001;Uygulamak;To apply;3;4
+1002;Uygun;Available;7;3
+1003;Uymak;To obey, to fit;3;2
+1004;Uyumak;To sleep;3;3
+1005;Uzak;Far;7;2
+1006;Uzanmak;To lie down;3;3
+1007;Uzatmak;To extend;3;3
+1008;Üzgün;Sad;7;3
+1009;Uzman;Expert;10;3
+1010;Üzüm;Grapes;18;3
+1011;Uzun;Long, tall;7;3
+1012;Vakit;Time;5;2
+1013;Varmak;To arrive;3;2
+1014;Vatandaş;Citizen;22;3
+1015;Vazgeçmek;To change one's mind;3;3
+1016;Ve;And;12;1
+1017;Vergi;Tax;19;2
+1018;Vermek;To give;3;2
+1019;Veya;Or;12;2
+1020;Vücut;Body;17;2
+1021;Vurmak;To hit;3;2
+1022;WC;Bathroom (water closet);4;1
+1023;Ya da;Or;11;2
+1024;Yabancı;Foreigner;22;3
+1025;Yağ;Oil, fat;4;1
+1026;Yağmur;Rain;25;2
+1027;Yakalamak;To catch;3;4
+1028;Yakın;Near;7;3
+1029;Yaklaşık;Approximately;7;3
+1030;Yaklaşmak;To get closer;3;3
+1031;Yakmak;To light (a fire, stove);3;2
+1032;Yalnız;Alone;7;2
+1033;Yani;In other words;11;2
+1034;Yanıt;Answer;3;2
+1035;Yanlış;Wrong;7;2
+1036;Yanmak;To burn;3;2
+1037;Yapı;Structure;4;2
+1038;Yapmak;To do;3;2
+1039;Yaprak;Leaf;4;2
+1040;Yara;Injury;24;2
+1041;Yaratmak;To create;3;3
+1042;Yardım etmek;To help;3;4
+1043;Yarım;Half;7;3
+1044;Yaş;Age;5;1
+1045;Yasa;Law;16;2
+1046;Yaşam;Life;16;3
+1047;Yaşamak;To live;3;3
+1048;Yaşlı;Old (person);7;2
+1049;Yatak;Bed;4;2
+1050;Yatmak;To lie down;3;2
+1051;Yavaş;Slow;7;2
+1052;Yaygın;Common, widespread;7;3
+1053;Yaz;Summer;5;1
+1054;Yazar;Author;10;2
+1055;Yazmak;To write;3;2
+1056;Yedek;Extra;4;2
+1057;Yedi;Seven;6;2
+1058;Yemek;To Eat;18;2
+1059;Yeni;New;7;2
+1060;Yer;Place, floor;8;1
+1061;Yeşil;Green;23;2
+1062;Yetenek;Skill;16;3
+1063;Yeterli;Enough;7;3
+1064;Yetmiş;Seventy;6;2
+1065;Yıl;Year;5;1
+1066;Yılan;Snake;20;3
+1067;Yıldız;Star;4;2
+1068;Yine;Again;13;2
+1069;Yirmi;Twenty;6;2
+1070;Yiyecek;Food;18;3
+1071;Yoğun;Thick, busy;7;3
+1072;Yoğurt;Yogurt;18;2
+1073;Yoksa;Or;13;2
+1074;Yol;Road, path;8;1
+1075;Yön;Direction;8;2
+1076;Yönetici;Manager;10;4
+1077;Yönetmek;To lead;3;3
+1078;Yöntem;Method;16;3
+1079;Yorulmak;To be exhausted;3;3
+1080;Yorum;Comment;11;3
+1081;Yüksek;High;7;2
+1082;Yumurta;Egg;18;3
+1083;Yumuşak;Soft;7;3
+1084;Yurt dışı;Outside the country;8;3
+1085;Yurtiçi;Domestic (inside the country);8;3
+1086;Yürümek;To walk;3;3
+1087;Yuvarlak;Round;7;3
+1088;Yüz;Face, 100;17;1
+1089;Yüzde;Percent;16;2
+1090;Yüzyıl;Century;5;2
+1091;Zafer;Victory;16;2
+1092;Zaman;Time;5;3
+1093;Zarar;Damage;16;2
+1094;Zarf;Envelope, adverb;4;1
+1095;Zaten;Anyway, already;13;3
+1096;Zayıf;Thin, weak;7;2
+1097;Zehir;Poison;4;2
+1098;Zeki;Intelligent;7;2
+1099;Zemin;Ground (floor);8;3
+1100;Zengin;Rich;7;3
+1101;Zevk;Pleasure;16;1
+1102;Zeytin;Olive;18;3
+1103;Zil;Doorbell;4;1
+1104;Zor;Difficult;7;1
+1105;olarak;as;11;3
+1106;ben;I;22;2
+1107;onun;his;22;3
+1108;bu;that;7;1
+1109;diye;he;13;2
+1110;oldu;was;7;2
+1111;için;for;13;3
+1112;üzerinde;on;13;4
+1113;vardır;are;13;2
+1114;ile;with;13;2
+1115;onlar;they;22;2
+1116;var;have;13;1
+1117;dan;from;13;2
+1118;tarafından;by;13;5
+1119;ancak;but;13;2
+1120;olduğunu;is;13;4
+1121;o;it;22;1
+1122;sen;you;22;2
+1123;vardı;had;13;2
+1124;arasında;of;13;4
+1125;içinde;in;13;3
+1126;biz;we;22;1
+1127;üzerinden;out;13;5
+1128;do;do;13;1
+1129;onların;their;22;4
+1130;eğer;if;13;2
+1131;olacak;will;13;3
+1132;dedi;said;11;2
+1133;söyle;tell;11;2
+1134;yok;does;13;1
+1135;set;set;13;1
+1136;istiyorum;want;11;5
+1137;iyi;well;7;2
+1138;ayrıca;also;13;3
+1139;liman;port;8;3
+1140;büyü;spell;7;2
+1141;ekleyin;add;3;4
+1142;hatta;even;13;2
+1143;arazi;land;8;3
+1144;gerekir;must;13;3
+1145;böyle;such;13;2
+1146;izleyin;follow;3;4
+1147;erkekler;men;22;3
+1148;değişim;change;16;4
+1149;gitti;went;3;2
+1150;ışık;light;4;2
+1151;kapalı;off;7;3
+1152;gerek;need;13;2
+1153;bizi;us;22;2
+1154;inşa etmek;build;3;4
+1155;öz;self;7;1
+1156;herhangi bir;any;7;4
+1157;iş;work;10;1
+1158;olsun;get;13;3
+1159;yapılan;made;3;4
+1160;geri;back;13;2
+1161;geldi;came;3;2
+1162;gösterisi;show;3;4
+1163;bana;me;22;2
+1164;bizim;our;22;3
+1165;altında;under;13;3
+1166;adı;name;22;2
+1167;formu;form;4;2
+1168;yardım;help;3;3
+1169;düşük;low;7;2
+1170;hat;line;4;1
+1171;dönüş;turn;3;2
+1172;sağ;right;13;1
+1173;orada;there;13;3
+1174;yukarı;up;13;3
+1175;Kullanım;use;3;4
+1176;senin;your;22;3
+1177;hakkında;about;13;3
+1178;o zaman;then;13;4
+1179;onları;them;22;3
+1180;would;would;13;1
+1181;bu yüzden;so;13;4
+1182;onu;her;22;2
+1183;iki;two;6;2
+1184;bak;look;3;1
+1185;daha fazla;more;13;4
+1186;olabilir;could;13;4
+1187;gel;come;3;1
+1188;yaptım;did;3;3
+1189;numarası;number;6;4
+1190;insanlar;people;22;3
+1191;benim;my;22;3
+1192;daha;than;13;2
+1193;çağrı;call;3;2
+1194;ilk;first;6;1
+1195;may;may;5;1
+1196;aşağı;down;13;3
+1197;yan;side;13;2
+1198;standı;stand;10;2
+1199;kendi;own;7;2
+1200;bulundu;found;3;3
+1201;cevap;answer;3;2
+1202;çalışma;study;3;3
+1203;hala;still;13;2
+1204;öğrenmek;learn;3;3
+1205;let;let;13;1
+1206;çapraz;cross;13;2
+1207;çiftlik;farm;8;2
+1208;başlangıç;start;3;3
+1209;hikaye;story;3;3
+1210;testere;saw;4;3
+1211;çizmek;draw;3;2
+1212;run;run;3;2
+1213;yapamaz;don’t;7;3
+1214;basın;press;10;3
+1215;aldı;took;3;2
+1216;arkadaşı;friend;22;4
+1217;başladı;began;3;3
+1218;dur;stop;13;1
+1219;bir kez;once;13;2
+1220;baz;base;4;1
+1221;kesim;cut;3;3
+1222;izle;watch;3;2
+1223;ahşap;wood;4;2
+1224;ana;main;22;2
+1225;sonraki;next;13;3
+1226;başla;begin;3;2
+1227;kolaylığı;ease;7;4
+1228;her ikisi de;both;13;5
+1229;işareti;mark;4;4
+1230;sık sık;often;13;2
+1231;ayaklar;feet;17;3
+1232;bakım;care;3;3
+1233;ikinci;second;6;3
+1234;olağan;usual;7;4
+1235;yukarıdaki;above;13;5
+1236;hiç;ever;13;1
+1237;listesi;list;4;3
+1238;olsa;though;13;2
+1239;tartışma;talk;3;3
+1240;yakında;soon;13;3
+1241;doğrudan;direct;13;4
+1242;poz;pose;4;1
+1243;bırakın;leave;3;4
+1244;ölçmek;measure;3;2
+1245;rakam;numeral;6;3
+1246;rüzgar;wind;25;2
+1247;komple;complete;7;2
+1248;gemi;ship;4;2
+1249;sipariş;order;3;3
+1250;yangın;fire;3;3
+1251;söyledi;told;11;3
+1252;biliyordu;knew;13;4
+1253;beri;since;13;2
+1254;üst;top;7;1
+1255;inch;inch;26;1
+1256;hiçbir şey;nothing;13;3
+1257;tekerlek;wheel;4;3
+1258;kuvvet;force;16;2
+1259;nesne;object;4;2
+1260;yüzey;surface;4;2
+1261;ada;island;8;2
+1262;meşgul;busy;7;2
+1263;Test;test;3;1
+1264;tekne;boat;4;2
+1265;düzlem;plane;4;3
+1266;başkasının yeri;stead;8;6
+1267;koştu;ran;3;2
+1268;kontrol;check;3;2
+1269;oyunu;game;3;3
+1270;özledim;miss;2;4
+1271;getirdi;brought;3;3
+1272;ısı;heat;25;2
+1273;kar;snow;25;1
+1274;doldurun;fill;3;4
+1275;boya;paint;4;2
+1276;ünitesi;unit;4;4
+1277;ince;fine;7;2
+1278;belirli;certain;7;3
+1279;kurşun;lead;4;3
+1280;notu;note;4;2
+1281;bekleyin;wait;13;4
+1282;planı;plan;16;2
+1283;i;noun;31;1
+1284;gerisi;rest;16;3
+1285;yetenekli;able;7;4
+1286;kiloluk;pound;26;3
+1287;bitti;done;3;2
+1288;güzellik;beauty;16;3
+1289;durdu;stood;3;2
+1290;içeren;contain;3;4
+1291;ön;front;7;2
+1292;nihai;final;7;2
+1293;verdi;gave;3;2
+1294;oh;oh;11;1
+1295;geliştirmek;develop;3;4
+1296;ücretsiz;free;7;3
+1297;zihin;mind;16;3
+1298;arkasında;behind;32;4
+1299;kuyruk;tail;4;2
+1300;üretmek;produce;3;3
+1301;uzay;space;33;2
+1302;duydum;heard;27;3
+1303;en iyi;best;7;3
+1304;daha iyi;better;7;4
+1305;sırasında;during;5;4
+1306;hatırlıyorum;remember;3;6
+1307;tutun;hold;3;3
+1308;faiz;interest;19;1
+1309;fiil;verb;11;1
+1310;şarkı söylemek;sing;3;5
+1311;dinle;listen;3;2
+1312;tablo;table;4;2
+1313;seyahat;travel;3;3
+1314;desen;pattern;16;3
+1315;merkezi;center;32;3
+1316;hizmet;serve;3;2
+1317;görünür;appear;7;3
+1318;idare;govern;3;3
+1319;Çek;pull;3;1
+1320;avı;hunt;3;2
+1321;muhtemel;probable;7;3
+1322;hücre;cell;33;2
+1323;inanıyorum;believe;16;6
+1324;ani;sudden;7;2
+1325;saymak;count;3;2
+1326;kare;square;34;2
+1327;uzunluk;length;26;3
+1328;temsil;represent;16;2
+1329;boyut;size;26;2
+1330;yerleşmek;settle;3;3
+1331;ağırlık;weight;26;3
+1332;buz;ice;4;1
+1333;çifti;pair;6;2
+1334;dahil;include;16;2
+1335;hece;syllable;11;2
+1336;keçe;felt;4;2
+1337;dalga;wave;35;2
+1338;kalp;heart;17;1
+1339;duyuyorum;am;27;5
+1340;mevcut;present;7;2
+1341;dans;dance;3;1
+1342;motor;engine;4;2
+1343;pozisyon;position;3;4
+1344;yelken;sail;4;3
+1345;materyal;material;4;3
+1346;kesir;fraction;36;2
+1347;yarış;race;3;2
+1348;penceresi;window;4;4
+1349;uyku;sleep;3;2
+1350;kanıtlamak;prove;3;4
+1351;egzersiz;exercise;3;3
+1352;catch;catch;3;1
+1353;dilek;wish;3;2
+1354;gökyüzü;sky;35;3
+1355;kurulu;board;3;3
+1356;sevinç;joy;2;2
+1357;Cts;sat;37;1
+1358;yazılı;written;11;3
+1359;vahşi;wild;7;2
+1360;enstrüman;instrument;4;4
+1361;tuttu;kept;3;2
+1362;çim;grass;35;2
+1363;inek;cow;20;2
+1364;ziyareti;visit;3;4
+1365;eğlenceli;fun;7;4
+1366;parlak;bright;7;2
+1367;umut;hope;2;2
+1368;giydirmek;clothe;3;3
+1369;garip;strange;7;2
+1370;ticaret;trade;3;3
+1371;melodi;melody;38;3
+1372;gezi;trip;3;2
+1373;ofis;office;8;2
+1374;satır;row;4;2
+1375;sembol;symbol;4;2
+1376;en az;least;7;2
+1377;hariç;except;13;2
+1378;yazdı;wrote;3;2
+1379;tohum;seed;4;3
+1380;sesi;tone;27;2
+1381;önermek;suggest;3;3
+1382;molası;break;3;3
+1383;bayan;lady;22;3
+1384;yarda;yard;8;2
+1385;yükselecek;rise;3;4
+1386;darbe;blow;3;2
+1387;dokunma;touch;3;3
+1388;büyüdü;grew;3;3
+1389;tel;wire;4;1
+1390;maliyet;cost;19;3
+1391;kaybetti;lost;3;3
+1392;gönderildi;sent;3;4
+1393;düştü;fell;3;2
+1394;akış;flow;3;2
+1395;adil;fair;7;2
+1396;kaydetmek;save;3;3
+1397;kontrolü;control;3;3
+1398;ondalık;decimal;36;3
+1399;kırdı;broke;3;2
+1400;dava;case;16;2
+1401;oğlu;son;1;2
+1402;ölçek;scale;26;2
+1403;yüksek sesle;loud;13;4
+1404;bahar;spring;5;2
+1405;gözlemlemek;observe;3;4
+1406;ünsüz;consonant;11;2
+1407;ulus;nation;22;2
+1408;Sözlük;dictionary;4;2
+1409;hız;speed;26;1
+1410;Organ;organ;17;3
+1411;ödeme;pay;19;3
+1412;elbise;dress;4;3
+1413;bulut;cloud;4;2
+1414;sessiz;quiet;7;2
+1415;küçücük;tiny;7;3
+1416;tırmanış;climb;3;3
+1417;serin;cool;7;3
+1418;dizayn;design;3;3
+1419;deneme;experiment;3;3
+1420;alt;bottom;32;1
+1421;anahtar;key;4;3
+1422;demir;iron;4;2
+1423;sopa;stick;4;2
+1424;cilt;skin;17;1
+1425;gülümseme;smile;3;4
+1426;kırışık;crease;7;3
+1427;atlama;jump;3;3
+1428;karşılamak;meet;3;4
+1429;kök;root;39;1
+1430;satın;buy;3;3
+1431;yükseltmek;raise;3;3
+1432;it;push;20;1
+1433;paragraf;paragraph;11;3
+1434;Shall;shall;11;1
+1435;tutulan;held;3;4
+1436;tanımlamak;describe;3;4
+1437;aşçı;cook;10;2
+1438;güvenli;safe;7;3
+1439;tipi;type;4;2
+1440;hukuk;law;16;2
+1441;bit;bit;4;1
+1442;sahil;coast;8;2
+1443;kopya;copy;3;2
+1444;ifade;phrase;3;3
+1445;uzun boylu;tall;7;4
+1446;rulo;roll;4;2
+1447;sıcaklık;temperature;26;3
+1448;sanayi;industry;16;3
+1449;değeri;value;16;3
+1450;kavga;fight;3;2
+1451;yalan;lie;3;3
+1452;yendi;beat;3;2
+1453;heyecanlandırmak;excite;3;6
+1454;görünüm;view;7;4
+1455;sense;sense;11;2
+1456;sermaye;capital;16;3
+1457;olmaz;won’t;7;2
+1458;süreç;process;3;2
+1459;işletmek;operate;3;3
+1460;uygulama;practice;3;4
+1461;öğlen;noon;5;3
+1462;kırpma;crop;3;2
+1463;çağdaş;modern;7;2
+1464;besleme;supply;3;3
+1465;kimin;whose;9;3
+1466;yerleştirmek;locate;3;4
+1467;halka;ring;4;2
+1468;karakter;character;16;3
+1469;yakalandı;caught;3;4
+1470;dönemi;period;5;3
+1471;göstermektedir;indicate;3;5
+1472;radyo;radio;4;2
+1473;konuştu;spoke;11;3
+1474;atomudur;atom;33;4
+1475;insan;human;22;3
+1476;geçmişi;history;5;3
+1477;etkisi;effect;16;3
+1478;bekliyoruz;expect;3;4
+1479;kemik;bone;17;2
+1480;demiryolu;rail;4;4
+1481;hayal;imagine;16;2
+1482;katılıyorum;agree;3;6
+1483;böylece;thus;13;3
+1484;nazik;gentle;7;2
+1485;kaptan;captain;10;3
+1486;sanırım;guess;13;4
+1487;keskin;sharp;7;3
+1488;kanat;wing;17;2
+1489;oluşturmak;create;3;4
+1490;komşu;neighbor;22;2
+1491;yıkama;wash;3;3
+1492;yarasa;bat;20;3
+1493;yerine;rather;32;3
+1494;karşılaştırma;compare;16;5
+1495;dize;string;4;2
+1496;çan;bell;4;2
+1497;bağlı;depend;7;2
+1498;ovmak;rub;3;2
+1499;tüp;tube;4;1
+1500;dolar;dollar;19;2
+1501;akışı;stream;3;3
+1502;korku;fear;2;2
+1503;görüş;sight;16;2
+1504;üçgen;triangle;34;3
+1505;gezegen;planet;4;4
+1506;acele;hurry;7;3
+1507;koloni;colony;4;3
+1508;mayın;mine;4;3
+1509;kravat;tie;4;2
+1510;girin;enter;3;3
+1511;arama;search;3;3
+1512;gun;gun;4;2
+1513;izin;allow;3;3
+1514;ölü;dead;7;2
+1515;çöl;desert;8;1
+1516;takım elbise;suit;4;5
+1517;akım;current;4;3
+1518;asansör;lift;4;3
+1519;gül;rose;39;1
+1520;iz;track;4;1
+1521;ebeveyn;parent;22;4
+1522;kıyı;shore;8;2
+1523;bölünme;division;16;3
+1524;levha;sheet;4;2
+1525;iyilik;favor;7;3
+1526;sonrası;post;5;3
+1527;akor;chord;38;2
+1528;şişman;fat;7;3
+1529;memnun;glad;7;3
+1530;orijinal;original;7;4
+1531;payı;share;19;2
+1532;istasyon;station;8;4
+1533;bar;bar;8;1
+1534;teklif;offer;3;2
+1535;segmenti;segment;4;3
+1536;köle;slave;22;2
+1537;ördek;duck;20;2
+1538;anlık;instant;7;2
+1539;derecesi;degree;26;4
+1540;civciv;chick;20;2
+1541;sevgili;dear;22;3
+1542;düşman;enemy;22;3
+1543;içki;drink;18;2
+1544;meydana;occur;3;3
+1545;konuşma;speech;11;3
+1546;doğa;nature;35;2
+1547;aralığı;range;26;4
+1548;buhar;steam;35;2
+1549;log;log;4;1
+1550;dişler;teeth;17;2
+1551;kabuk;shell;4;2
+1552;oksijen;oxygen;33;4
+1553;beceri;skill;16;3
+1554;sezon;season;5;3
+1555;mıknatıs;magnet;4;3
+1556;teşekkür ederim;thank;11;7
+1557;şube;branch;4;2
+1558;sonek;suffix;11;2
+1559;incir;fig;18;2
+1560;korkuyor;afraid;2;3
+1561;çelik;steel;4;2
+1562;ileri;forward;7;3
+1563;benzer;similar;7;2
+1564;kılavuz;guide;10;3
+1565;deneyim;experience;3;4
+1566;satın aldı;bought;3;4
+1567;açtı;led;3;2
+1568;zift;pitch;4;1
+1569;ceket;coat;4;2
+1570;kitle;mass;16;2
+1571;halat;rope;4;2
+1572;kayma;slip;3;2
+1573;win;win;3;2
+1574;durumu;condition;16;3
+1575;beslemek;feed;3;3
+1576;aracı;tool;4;3
+1577;vadi;valley;8;2
+1578;bloğu;block;4;2
+1579;grafiği;chart;4;3
+1580;anlaşma;deal;3;3
+1581;yüzmek;swim;3;2
+1582;vadeli;term;19;3
+1583;karşısında;opposite;32;4
+1584;karısı;wife;1;3
+1585;omuz;shoulder;17;2
+1586;yaymak;spread;3;2
+1587;kamp;camp;8;1
+1588;icat;invent;3;2
+1589;doğmuş;born;7;2
+1590;belirlemek;determine;3;4
+1591;kuart;quart;4;1
+1592;kamyon;truck;28;3
+1593;gürültü;noise;27;3
+1594;seviyesi;level;16;4
+1595;streç;stretch;4;1
+1596;parlaklık;shine;7;3
+1597;mülkiyet;property;16;3
+1598;sütun;column;4;3
+1599;molekülü;molecule;33;4
+1600;seçin;select;3;3
+1601;gerektirir;require;16;4
+1602;hazırlamak;prepare;3;4
+1603;çoğul;plural;11;2
+1604;öfke;anger;2;2
+1605;iddia;claim;16;2
+1606;kıta;continent;8;2
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;
+;;;40;

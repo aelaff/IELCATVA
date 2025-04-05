@@ -1,0 +1,2105 @@
+WordID,TurkishWord,EnglishWord,Category,Difficulty
+1,Abi,Older brother,1,2
+2,Abla,Older sister,1,2
+3,Acaba,I wonder,2,3
+4,Ac?,Pain,3, spicy,Feelings_Emotions,2
+5,A??k,Open,4,2
+6,Ac?kmak,To be hungry,4,3
+7,Acil,Emergency,4,2
+8,A?mak,To open,4,2
+9,Ad,Name,5,1
+10,Adam,Man,1,3
+11,Adet,Piece,6,Objects_Things,2
+12,Ad?m,Step,5,3
+13,Adres,Address,5,2
+14,A_a?,Tree,5,2
+15,A_?r,Heavy,5,2
+16,A_?z,Mouth,5,2
+17,A_lamak,To cry,2,3
+18,Aile,Family,1,2
+19,Ak?l,Mind,5,2
+20,Ak?ll?,Smart,7,Objects_Things,3
+21,Akmak,To flow,4,2
+22,Ak_am,Evening,8,3
+23,Alan,Area,4,3
+24,Al?_mak,To adjust,4,3
+25,Al?_veri_ yapmak,To go shopping,4,6
+26,Allah,God,5,2
+27,Almak,To take,4,2
+28,Alt?,Six,9,2
+29,Alt?n,Gold,5,3
+30,Altm?_,Sixty,9,2
+31,Ama,But,10,2
+32,Ama?,Purpose,5,2
+33,Amca,Uncle (father's brother),1,2
+34,An,Moment,8,2
+35,Anlam,Meaning,1,3
+36,Anlamak,To understand,4,3
+37,Anla_?lmak,To be understood,4,4
+38,Anlatmak,To explain,4,3
+39,Anne,Mother,1,2
+40,Apartman,Apartment building,11,4
+41,Araba,Car,5,3
+42,Ara?,Tool,12,Objects_Things,2
+43,Aral?k,December,8,3
+44,Aramak,To search for,13,Actions_Activities,3
+45,Ara_t?rmak,To research,4,4
+46,Ar?,Bee,5,2
+47,Arkada_,Friend,1,3
+48,Armut,Pear,5,2
+49,Art?k,Anymore (these days),4,2
+50,Artmak,To increase,4,2
+51,As?l,Actual,4,2
+52,A_?r?,Extreme,4,3
+53,A_k,Romantic love,2,1
+54,Asker,Soldier,5,2
+55,Asla,Never,10,2
+56,Asl?nda,Actually,10,3
+57,At,Horse,5,1
+58,Ate_,Fire,5,2
+59,Atlamak,To jump,4,3
+60,Atmak,To throw,4,2
+61,Ay,Moon,14,Time_Calendar,1
+62,Ayak,Foot,5,2
+63,Ayakkab?,Shoe,5,4
+64,Ay?,Bear,5,2
+65,Ay?rmak,To separate,4,3
+66,Ayna,Mirror,5,2
+67,Ayn?,Similar,10,2
+68,Ayr?,Separate,10,2
+69,Ayr?lmak,To be separated,1,3
+70,Az,Little,9,1
+71,Baba,Dad,1,2
+72,Bacak,Leg,5,2
+73,Ba_?rmak,To shout,4,3
+74,Ba_lamak,To tie,15,Actions_Activities,3
+75,Bah?e,Garden,11,2
+76,Bakan,Minister (government),5,3
+77,Bak?_,View,5,2
+78,Bakmak,To look,4,2
+79,Bal?k,Fish,5,2
+80,Banka,Bank,5,2
+81,Bant,Tape,16, strip,Objects_Things,1
+82,Banyo,Bathroom (with a shower or bath),11,2
+83,Bardak,Glass (cup),5,2
+84,Bar?_,Peace (not at war),5,2
+85,Ba_,Head,5,1
+86,Ba_ar?,Success,5,3
+87,Basit,Basic,17,Adjectives,2
+88,Ba_ka,Other,10,2
+89,Ba_kan,President,18,Objects_Things,3
+90,Bask?,Pressure,5,2
+91,Ba_lamak,To start,4,3
+92,Basmak,To step,19,Actions_Activities,2
+93,Bat?,West,8,2
+94,Batmak,To sink,4,2
+95,Battaniye,Blanket,5,4
+96,Bayrak,Flag,5,2
+97,Bayram,Holiday,8,3
+98,Bazen,Sometimes,10,3
+99,Baz?,Some,10,2
+100,Bebek,Baby,1,2
+101,Bedava,Free,10,3
+102,Beden,Body (or clothing size),5,3
+103,Be_enmek,To like,4,3
+104,Bek?r,Single (not married),1,1
+105,Beklemek,To wait,4,3
+106,Bel,Waist,20,Objects_Things,1
+107,Belediye,Municipality,5,4
+108,Belge,Document,5,2
+109,Belki,Maybe,10,2
+110,Belli,Clear,21,Adjectives,2
+111,Benzemek,To look like,4,3
+112,Benzin,Gasoline,5,3
+113,Beraber,Together,10,3
+114,Be_,Five,9,1
+115,Bey,Mr.,5,1
+116,Beyaz,White,10,2
+117,Beyin,Brain,5,3
+118,Bez,Cloth (or diaper),5,1
+119,B??ak,Knife,5,2
+120,Bi?im,Shape,10,3
+121,Bilet,Ticket,5,2
+122,Bilgi,Information,5,2
+123,Bilgisayar,Computer,5,4
+124,Bilim,Science,5,3
+125,Bilmek,To know,4,2
+126,Bin,Thousand,9,2
+127,Bina,Building,11,2
+128,Binmek,To ride,22,Actions_Activities,2
+129,Bir,One,23,1
+130,B?rakmak,To leave something,4,3
+131,Biraz,A little,10,2
+132,Bir?ok,A lot,10,2
+133,Biri,Someone,24,Question_Words,2
+134,Birinci,First,10,3
+135,Birisi,Someone,23,3
+136,Birka?,A few,10,2
+137,Birlikte,Together,10,3
+138,Bitirmek,To finish (something),4,3
+139,Bitki,Plant,5,2
+140,Bitmek,To be finished,4,2
+141,B?cek,Bug,5,2
+142,Bo_az,Throat,11,2
+143,B?lge,Region,11,2
+144,B?lmek,To divide,4,2
+145,B?l?m,Division,25,Places_Locations,3
+146,Boru,Pipe,5,2
+147,Bo_,Empty,10,1
+148,Bo_altmak,To empty (something),4,3
+149,Bo_anmak,To get divorced,4,3
+150,Boy,Size,5,1
+151,Boyamak,To paint,26,Actions_Activities,3
+152,Boyun,Neck,5,3
+153,Bozuk,Broken (stopped working),10,2
+154,Bozulmak,To be broken (stop working),4,3
+155,Bug?n,Today,8,3
+156,Bulmak,To find,4,2
+157,Bulu_mak,To meet up with,4,3
+158,Burada,Here,27,Places_Locations,3
+159,Buras?,This place,11,3
+160,Burun,Nose,5,3
+161,B?t?n,All,28,Adjectives,3
+162,B?y?k,Big,10,2
+163,B?y?mek,To grow (bigger),4,3
+164,?abuk,Quick,10,2
+165,Cadde,Street,11,2
+166,?a_?rmak,To invite,29,Actions_Activities,3
+167,?al?_mak,To work,4,3
+168,?almak,To steal,30,Actions_Activities,2
+169,Cam,Glasses,5,2
+170,?ama_?r,Laundry,5,3
+171,Cami,Mosque,11,2
+172,Can,Life,31,Objects_Things,2
+173,Canl?,Alive,32,Adjectives,2
+174,?anta,Bag (backpack,33,Objects_Things,2
+175,?arpmak,To crash,4,2
+176,?ar_amba,Wednesday,8,3
+177,?atal,Fork,5,2
+178,?ay,Tea,5,1
+179,?aydanl?k,Teapot,5,3
+180,?ekmek,To pull,4,2
+181,?e_it,Type,34,Adjectives,2
+182,Cevap vermek,To answer,4,4
+183,?evirmek,To flip,35,Actions_Activities,3
+184,?evre,Environment,11,2
+185,?eyrek,Quarter (25%),9,2
+186,Ceza,Punishment,5,2
+187,?i?ek,Flower,5,2
+188,Ciddi,Serious,10,2
+189,?ift,Double,9,1
+190,?ift?i,Farmer,36,2
+191,Cihaz,Electronic device,5,2
+192,??karmak,To take off,37,Actions_Activities,3
+193,??kmak,To leave,38,Actions_Activities,2
+194,?irkin,Ugly,10,3
+195,?izgi,Line,39,Objects_Things,2
+196,?ocuk,Child,1,2
+197,?ok,Very,40,Adjectives,1
+198,?orap,Sock,5,2
+199,??zmek,To solve,41,Actions_Activities,2
+200,??z?m,Resolution,5,3
+201,Cuma,Friday,8,2
+202,Cumartesi,Saturday,8,4
+203,C?mle,Sentence,42,2
+204,??nk?,Because,43,2
+205,Da_,Mountain,11,1
+206,Daha az,Less,44,3
+207,Daha ?ok,More,44,3
+208,Daire,Apartment,45,Places_Locations,2
+209,Dakika,Minute,8,3
+210,Damla,Drop (of liquid),5,2
+211,Dans etmek,To dance,4,3
+212,Davet etmek,To invite,4,4
+213,Davran?_,behavior,4,3
+214,Davranmak,To behave (in a certain way),4,3
+215,Dayanmak,To endure,4,3
+216,Defter,Notebook,5,2
+217,De_er,Value,5,2
+218,De_il,Not,43,2
+219,De_i_mek,(For something) to change,4,3
+220,De_i_tirmek,To change (something),4,4
+221,Delik,Hole,5,2
+222,Demek,To say,46,Language_Communication,2
+223,Denemek,To try,4,3
+224,Denge,Balance,5,2
+225,Deniz,Sea,11,2
+226,Deprem,Earthquake,47,3
+227,Derece,Degrees (temperature),9,3
+228,Deri,Skin,5,2
+229,Derin,Deep,10,3
+230,Ders,Class,48,1
+231,Destek,Support,4,2
+232,Devam etmek,To continue,4,4
+233,Devlet,Government,5,2
+234,Di_er,The other (one),10,2
+235,Dik,Steep,10,1
+236,Dikkat etmek,To be careful,4,4
+237,Dil,Tongue (or language),42,1
+238,Din,Religion,49,2
+239,Dinlemek,To listen,4,3
+240,Dinlenmek,To rest,4,3
+241,Dirilmek,To be resurrected,4,3
+242,Di_,Tooth,5,1
+243,Diz,Knee,50,1
+244,Do_al,Natural,10,2
+245,Do_al gaz,Natural Gas,5,3
+246,Do_mak,To be born,4,2
+247,Do_ru,Right,10,2
+248,Do_u,East,11,2
+249,Doksan,Ninety,9,3
+250,Doktor,Doctor,36,2
+251,Dokuz,Nine,9,2
+252,Dolap,Cabinet,5,2
+253,Dola_mak,To wander,4,3
+254,Doldurmak,To fill,4,3
+255,Dolu,Full,10,2
+256,Dondurma,Ice cream,51,3
+257,D?nem,Period (of time),8,3
+258,D?ner,Shaved Meat,4,2
+259,D?nmek,To turn,4,2
+260,D?rt,Four,9,1
+261,Dost,Best friend,1,1
+262,Dosya,Folder,5,2
+263,D?viz,Foreign currency (esp. Dollars,52,Finance,2
+264,D?_?n,Wedding celebration,47,3
+265,D?kkan,Shop,11,3
+266,Duman,Smoke,5,3
+267,D?n,Yesterday,8,2
+268,D?nya,Earth,53,Places_Locations,2
+269,Durmak,To stop,4,2
+270,Durum,Situation,49,3
+271,D?r?m,Sandwich wrap,51,3
+272,Du_ almak,To take a shower,4,3
+273,D?_mek,To fall,4,2
+274,D?_?nce,Thought,49,3
+275,D?_?nmek,To think,4,3
+276,Duvar,Wall,5,2
+277,Duygu,Emotion,54,Feelings_Emotions,2
+278,Duymak,To hear,55,Actions_Activities,2
+279,D?z,Straight,10,1
+280,D?zeltmek,To correct,4,3
+281,D?zenlemek,To organize,4,4
+282,E_itim,Education,48,4
+283,Ek,Addition,56,Language_Communication,1
+284,Ekim,October,8,3
+285,Eklemek,To add (common speech),4,3
+286,Ekmek,Bread,51,2
+287,Ekonomi,Economy,57,4
+288,Eksik,Missing,10,2
+289,El,Hand,50,1
+290,Elbette,Certainly,44,3
+291,Eldiven,Glove,5,4
+292,Elektrik,Electricity,58,Objects_Things,3
+293,Eleman,Worker,36,4
+294,Elli,Fifty,9,2
+295,Elma,Apple,51,2
+296,Emekli,Retired,36,3
+297,Emin,Certain,10,3
+298,Emlak??,Realtor,36,3
+299,En,Most (or width),10,2
+300,Enerji,Energy,5,3
+301,Enflasyon,Inflation,57,4
+302,Engel,Barrier,4,2
+303,Engelli,Disabled,10,3
+304,Erimek,To melt,4,3
+305,Erkek,Boy (or male),1,2
+306,Erken,Early,10,3
+307,E_,Spouse,59,Family_Relationships,1
+308,E_it,Equal,10,2
+309,Eski,Old,10,2
+310,Eskiden,In the past,44,4
+311,E_ya,Furnishings,60,Objects_Things,2
+312,Et,Meat,61,Food_Drink,1
+313,Etki,Effect,4,2
+314,Etkilemek,To affect,4,4
+315,Etmek,To do,4,2
+316,Ev,Home,11,1
+317,Ev sahibi,Home owner,1,4
+318,Evet,Yes,42,2
+319,Evlenmek,To marry,1,3
+320,Evli,Married,1,2
+321,Eyl?l,September,8,2
+322,Fabrika,Factory,11,3
+323,Fakat,But,43,2
+324,Fakir,Poor,10,2
+325,Falan filan,Etc,44,5
+326,Fare,Mouse (animal or for computer),62,2
+327,Fark,Difference,49,1
+328,Fark etmek,To notice,4,3
+329,Farketmez,It doesn't matter,44,3
+330,Farkl?,Different,10,2
+331,Fazla,Too much,10,2
+332,Fikir,Idea,49,2
+333,Film,Movie (film),63,2
+334,Fincan,(Tea or turkish coffee) cup,5,3
+335,F?rsat,Opportunity,49,2
+336,Fi_,Receipt,64,Objects_Things,1
+337,Fiyat,Price,57,2
+338,Foto_raf,Photograph,5,3
+339,Galiba,Probably,44,3
+340,Gayet,Really,65,Adverbs,2
+341,Gaz,Gas (but not gasoline),5,1
+342,Gazete,Newspaper (gazette),5,3
+343,Ge?,Late,10,1
+344,Ge? kalmak,To be late,4,3
+345,Gece,Night,8,2
+346,Ge?en,Last (week,14, year), one that passes,Adjectives,3
+347,Ge?ici,Temporary,10,3
+348,Ge?mek,To pass,4,2
+349,Ge?mi_,Past,10,2
+350,Gelecek,Next,66,Adjectives,3
+351,Gelenek,Tradition,49,3
+352,Gelir,Income,57,2
+353,Gelmek,To come,4,2
+354,Gen?,Young (person),10,1
+355,Gene,Again,44,2
+356,Genel,General,10,2
+357,Genellikle,Generally,44,4
+358,Geni_,Wide (or loose fitting),10,2
+359,Ger?ek,True,67,Concepts,2
+360,Ger?ekten,Really,44,4
+361,Gerekli,Needed,10,3
+362,Gerekmek,To be needed,4,3
+363,Geri gelmek,To come back,4,4
+364,Geri vermek,To give back,4,4
+365,Getirmek,To bring,4,3
+366,Gezmek,To explore,4,2
+367,Gibi,Like,68,Conjunctions,2
+368,G?da,Food (market),51,2
+369,Giri_,Entrance,11,2
+370,Girmek,To enter,4,2
+371,Gitmek,To go,4,2
+372,Giymek,To put on (clothing),4,2
+373,Giysi,Outfit (clothing),5,2
+374,Gizli,Secret (private),10,2
+375,G?bek,Stomach,69, center,Body_Parts,2
+376,G??men,Refugee,70,3
+377,G?k,Sky (or heaven),5,1
+378,G?l,Lake,11,1
+379,G?ndermek,To send,4,3
+380,G?n?l,Heart,31,Feelings_Emotions,2
+381,G?rev,Duty,4,2
+382,G?rmek,To see,4,2
+383,G?r?nmek,To appear,4,3
+384,G?r?_mek,To talk with,71,Actions_Activities,3
+385,G?stermek,To show,4,3
+386,G?t?rmek,To take something somewhere,4,3
+387,G?z,Eye,50,1
+388,G?zl?k,Glasses,5,2
+389,Gri,Grey,72,1
+390,Grip,Flu,73,1
+391,Grup,Group,70,1
+392,G??,Strength,49,1
+393,G??l?,Strong,10,2
+394,G?le g?le,Bye,42,4
+395,G?lmek,To laugh (or smile),4,2
+396,G?l?msemek,To smile,4,4
+397,G?m?_,Silver,5,2
+398,G?n,Day,8,2
+399,G?nah,Sin,49,2
+400,G?ne_,Sun,5,2
+401,G?ney,South,11,2
+402,G?ven,Trust,49,3
+403,G?venlik,Security,49,3
+404,G?venmek,To trust,49,3
+405,G?zel,Good,74,Adjectives,2
+406,Haber,News,42,2
+407,Hadi,Hurry,75,Language_Communication,2
+408,Hafif,Light (weight),10,2
+409,Hafta,Week,8,2
+410,Hafta sonu,Weekend,8,4
+411,H?kim,Judge,36,2
+412,Hakl?,Right (justified in saying something),10,2
+413,Hal,State,76,Concepts,1
+414,H?l?,Still,44,1
+415,Hal?,Carpet,5,2
+416,Halk,People (people group),70,1
+417,Hamburger,Hamburger,51,3
+418,Hangi,Which,23,2
+419,Han?m,Mrs.,1,3
+420,Hapishane,Jail,11,4
+421,Harcamak,To spend,4,3
+422,Hareket,Activity,4,3
+423,Harika,Wonderful,10,3
+424,Harita,Map,5,3
+425,Hasta,Sick,73,2
+426,Hastane,Hospital,11,3
+427,Hata,Mistake,77,Concepts,2
+428,Hat?rlamak,To remember,4,4
+429,Hava,Air,78,2
+430,Havaalan?,Airport,11,4
+431,Havlu,Towel,5,2
+432,Havuz,Pool,5,2
+433,Hayal etmek,To dream,79,Actions_Activities,4
+434,Hayat,Life,49,2
+435,Hay?r,No,42,2
+436,Hayvan,Animal,62,3
+437,Hayvanat bah?esi,Zoo,11,6
+438,Haz?r,Ready,10,2
+439,Haziran,June,8,4
+440,Hedef,Target,80,Concepts,2
+441,Hediye,Gift,5,3
+442,Hemen,Right now,44,3
+443,Hen?z,Not yet,44,2
+444,Hep,All,44,1
+445,Hepsi,All (of a group),44,2
+446,Her,Every,44,1
+447,Her g?n,Every day,8,3
+448,Her _ey,Everything,44,2
+449,Her zaman,All the time,44,4
+450,Herhalde,Probably,44,3
+451,Herhangi,Whichever,44,3
+452,Herkes,Everyone,70,2
+453,Hesap,Account,49,2
+454,Hesap makinas?,Calculator,5,6
+455,Heyecanlanmak,To be excited,2,5
+456,Heyecanl?,Excited,10,4
+457,Hi?bir,None,44,2
+458,Hik?ye,Story,42,2
+459,H?rdavat??,Hardware store,36,4
+460,Hissetmek,To feel (emotion),2,3
+461,H?zl?,Fast,10,2
+462,Hizmet etmek,To serve,4,4
+463,Hoca,Teacher,36,2
+464,Ho_,Nice,10,1
+465,_badet,Worship,4,3
+466,_?ecek,Drink,51,3
+467,_?mek,To drink,4,2
+468,__ne,Needle (or syringe),5,2
+469,_htiya?,Need (basic need),49,3
+470,_ki,Two,9,2
+471,_kram etmek,To treat,81,Actions_Activities,4
+472,_l,Province,11,1
+473,_la?,Medicine,5,2
+474,_l?e,District (section of a province),11,2
+475,_lgi,Interest,49,2
+476,_lgin?,Interesting (or strange),10,2
+477,_li_ki,Relationship,49,3
+478,_lk,First,10,1
+479,_lkbahar,Spring,8,3
+480,_mk?nsiz,Impossible,10,2
+481,_mza,Signature,5,2
+482,_nan?,Faith,49,2
+483,_nanmak,To believe,49,3
+484,_nce,Thin,10,2
+485,_ndirim,Discount,57,4
+486,_nek,Cow,62,2
+487,_ngilizce,English (language),42,4
+488,_nmek,To get off,4,2
+489,_n_aat,Construction,11,2
+490,_nsan,Person,70,3
+491,_nternet,Internet,5,3
+492,_p,Thread,5,1
+493,_ptal etmek,To cancel,4,4
+494,__,Work (profession),36,1
+495,__?i,Worker,36,2
+496,I_?k,Light,5,2
+497,_sim,Name,42,3
+498,Islak,Wet,10,2
+499,__lem,Process,4,3
+500,_stemek,To want,4,3
+501,_yi,Good,10,2
+502,_zin,Permission,82,Concepts,3
+503,_zin vermek,To give permission,4,4
+504,_zlemek,To watch,83,Actions_Activities,3
+505,Kaba,Rude,10,2
+506,Kablo,Cable,5,2
+507,Kabul etmek,To accept,4,4
+508,Ka?,How many,44,1
+509,Ka?mak,To escape,4,2
+510,Kadar,Quantity,44,2
+511,Kad?n,Woman,70,3
+512,Kafa,Head,50,2
+513,K?_?t,Paper,5,1
+514,Kahraman,Hero,70,4
+515,Kahvalt?,Breakfast,51,3
+516,Kahve,Coffee,51,2
+517,Kahverengi,Brown,72,4
+518,Kalabal?k,Crowded (or crowd),10,4
+519,Kald?rmak,To remove,4,3
+520,Kalem,Pen (or other writing utensil),5,3
+521,Kal?c?,Permanent,10,3
+522,Kal?n,Thick,10,3
+523,Kalite,Quality,49,3
+524,Kalkmak,To rise,4,2
+525,Kalmak,To stay,4,2
+526,K?lp,Heart,50,1
+527,Kan,Blood,50,2
+528,Kanal,Canal,84,Objects_Things,2
+529,Kanepe,Couch,5,3
+530,Kanun,Law,49,3
+531,Kapak,Cover,5,2
+532,Kapatmak,To close (something),4,3
+533,Kap?,Door,5,2
+534,Karanl?k,Darkness,10,3
+535,Karar vermek,To decide,4,4
+536,Karde_,Sibling,1,2
+537,Kar?,Wife,1,2
+538,Kar?n,Stomach,50,3
+539,Kar?_t?rmak,To mix,4,4
+540,Kar_?,Opposite side,85,Adverbs,2
+541,Kart,Card,5,1
+542,Kasa,Checkout,5,2
+543,Kasaba,Town,11,3
+544,Ka_?k,Spoon,5,2
+545,Kas?m,November,8,3
+546,Kat,Floor (layer),11,1
+547,Kat?lmak,To join,86,Actions_Activities,3
+548,Kav_ak,Roundabout,11,2
+549,Kaya,Boulder,11,2
+550,Kaybetmek,To lose,4,3
+551,Kay?t,Record,5,2
+552,Kaymak,To slide,87,Food_Drink,2
+553,Kaynak,Source,5,2
+554,Kaza,Crash,88,Events,2
+555,Kazanmak,To win,4,3
+556,Kebab,Kabob,51,2
+557,Ke?i,Goat,62,2
+558,Kedi,Cat,62,2
+559,Kelime,Word,42,3
+560,Kenar,Edge,11,2
+561,Kent,City,11,1
+562,Kesilmek,To be cut,89,Actions_Activities,3
+563,Kesin,Certain,10,3
+564,Kesinlikle,Certainly,44,4
+565,Kesmek,To cut,4,2
+566,Kibar,Polite,10,2
+567,K?l??,Sword,5,2
+568,Kilim,Carpet,90,Objects_Things,3
+569,Kilitlemek,To lock,4,4
+570,K?lmak,To do,91, to perform,Actions_Activities,2
+571,Kilo,Kilogram,92,2
+572,Kilometre,Kilometer,92,4
+573,Kim,Who,23,2
+574,Kimlik,Identity,5,2
+575,K?rk,Forty,9,1
+576,Kirli,Dirty,10,2
+577,K?rm?z?,Red,72,3
+578,K?_,Winter,8,1
+579,K?sa,Short,10,2
+580,Ki_i,Person,70,2
+581,K?s?m,Part,49,3
+582,Kitap,Book,5,2
+583,K?z,Girl,70,1
+584,K?z ?ocuk,Girl,93,People,3
+585,K?z karde_,Sister,1,3
+586,K?zarmak,To fry,94,Actions_Activities,3
+587,K?zg?n,Angry,95,Adjectives,3
+588,Koca,Husband (or huge),70,2
+589,Koku,Smell,96,2
+590,Kol,Arm,50,1
+591,Kol saati,Wrist watch,5,3
+592,Kolay,Easy,10,2
+593,Koltuk,Couch (or armchair),5,2
+594,Kombi,Natural gas water heater,5,2
+595,Komik,Funny,10,2
+596,Kontrol etmek,To check,4,4
+597,Konu,Topic,42,2
+598,Konu_mak,To talk,4,3
+599,K?pek,Dog,62,2
+600,K?r,Blind,10,1
+601,K?ri,Curry,51,2
+602,Koridor,Aisle,11,3
+603,Korkmak,To be afraid,2,2
+604,Korumak,To protect,4,3
+605,K?_e,Corner,11,2
+606,Ko_mak,To run,4,2
+607,K?t?,Bad,10,2
+608,K?t?l?k,Evil,49,3
+609,K?y,Village,11,1
+610,Koymak,To put,4,2
+611,Koyu,Dark,97,Colors,2
+612,Koyun,Sheep,62,3
+613,Kral,King,70,1
+614,Kredi,Credit (loan),57,2
+615,Kriz,Crisis,49,1
+616,K???k,Small,10,2
+617,Kulak,Ear,50,2
+618,Kullanmak,To use,4,3
+619,K?lt?r,Culture,49,2
+620,Kum,Sand,5,2
+621,Kumanda,Remote control,5,3
+622,Kurabiye,Cookie,51,4
+623,Kural,Rule,49,2
+624,Kurba_a,Frog,62,3
+625,Kurban etmek,To sacrifice (an animal),4,4
+626,Kurmak,To build (a building),98,Actions_Activities,2
+627,Kurt,Wolf,62,1
+628,Kurtarmak,To save,99,Actions_Activities,3
+629,Kurtulmak,To be saved,100,Actions_Activities,3
+630,Kuru,Dry,10,2
+631,Ku_,Bird,62,1
+632,Kusura bakma,I'm sorry (informal apology),42,5
+633,Kusursuz,Flawless,101,Adjectives,3
+634,Kutlamak,To celebrate,4,3
+635,Kutu,Box,5,2
+636,Kuzey,North,11,2
+637,Laf,Word,102,Language_Communication,1
+638,Lastik,Tire,5,2
+639,Lavabo,Bathroom,103,Objects_Things,3
+640,L?z?m,Needed,49,2
+641,Lezzetli,Flavorful,104,Adjectives,3
+642,Lider,Leader,70,2
+643,Limon,Lemon,51,3
+644,Lira,Lira (Turkish unit of money),57,2
+645,Lise,High school,48,2
+646,L?ks,Luxurious,10,1
+647,L?tfen,Please,42,3
+648,Ma?,Sports match,47,1
+649,Madde,Material,49,2
+650,Ma_aza,Store,11,3
+651,Mahalle,Neighborhood (part of an il?e),11,3
+652,Makine,Machine,5,3
+653,Mal,Goods,105,Objects_Things,1
+654,Malzeme,Ingredient,106,Objects_Things,3
+655,Mant?k,Logic,49,2
+656,Manzara,Scenery,11,3
+657,Marka,Brand,5,2
+658,Mart,March,8,1
+659,Masa,Table,5,2
+660,Mavi,Blue,72,2
+661,Maya,Yeast,5,2
+662,May?s,May,8,2
+663,Meclis,Parliament,36,2
+664,Medya,Media,49,2
+665,Mektup,Letter (mail),42,2
+666,Memleket,Homeland,11,3
+667,Merak etmek,To worry,107,Actions_Activities,4
+668,Merdiven,Stairs,108,Objects_Things,4
+669,Merhaba,Hello,42,3
+670,Merkez,Center,11,2
+671,Mesafe,Distance,49,3
+672,Mesaj,Message (usually text message),42,2
+673,Mesela,For example,44,3
+674,Mesele,Issue,109,Concepts,3
+675,Meslek,Profession,36,2
+676,Metal,Metal,5,2
+677,Metre,Meter (or tape measure),92,2
+678,Metre kare,Square meters,92,4
+679,Meydan,City square,110,Places_Locations,3
+680,Meyve,Fruit,51,2
+681,Mide,Stomach,50,2
+682,Miktar,Amount,49,2
+683,Millet,People,111,People,2
+684,Milyar,Billion,9,2
+685,Milyon,Million,9,3
+686,Miras,Inheritance,49,2
+687,Misafir,Guest,70,3
+688,M?s?r,Corn,112,Food_Drink,2
+689,Mor,Purple,72,1
+690,M?d?r,Manager,36,2
+691,Mum,Candle,5,2
+692,M?mk?n,Possible,10,3
+693,M?sait,Available,10,2
+694,M?_teri,Customer,70,3
+695,Mutfak,Kitchen,11,2
+696,Mutlaka,Absolutely,44,3
+697,Mutlu,Happy,10,2
+698,Mutsuz,Unhappy,10,2
+699,M?zik,Music,5,2
+700,Nakit,Cash,57,2
+701,Nas?l,How,23,2
+702,Ne,What,23,1
+703,Neden,Why,23,3
+704,Nefes almak,To breathe,4,4
+705,Nehir,River,11,2
+706,Nerede,Where,23,3
+707,Neredeyse,Almost,44,4
+708,Net,Clear,113,Adjectives,1
+709,Neyse,Anyway,44,2
+710,Nisan,April,8,3
+711,Ni_anl?,Engaged,1,3
+712,Niye,Why (informal),23,2
+713,N?bet?i,Open during late hours (ER,114, etc),Occupations,3
+714,Nokta,Point (or period),5,2
+715,Normal,Normal,10,2
+716,Normalde,Normally,44,3
+717,Numara,Number,5,3
+718,?b?r,The other (one),10,2
+719,Ocak,January (or stove),8,2
+720,Oda,Room,11,2
+721,?demek,To pay (money),57,3
+722,Odun,Log,5,3
+723,?_renci,Student,36,3
+724,?_retmek,To teach,4,3
+725,?_retmen,Teacher,36,4
+726,O_ul,Son,1,2
+727,Okul,School,11,2
+728,Okumak,To read,115,Actions_Activities,3
+729,Okyanus,Ocean,11,3
+730,Olay,Event,47,2
+731,Olduk?a,Really,44,3
+732,?ld?rmek,To kill,4,3
+733,Olmak,To be,116,Actions_Activities,2
+734,?lmek,To die,4,2
+735,?l?m,Death,49,3
+736,Olur,Okay,44,2
+737,On,Ten,9,2
+738,Onaylamak,To condone,117,Actions_Activities,4
+739,?nce,Before,44,2
+740,?nemli,Important,10,3
+741,Orman,Forest,11,3
+742,?rne_in,For example,44,4
+743,?rnek,Example,49,2
+744,Orta,Middle,118,Adjectives,2
+745,Ortak,Shared,10,2
+746,?r?mcek,Spider,62,3
+747,Ot,Feed (for an animal),5,1
+748,Otel,Hotel,11,2
+749,Otob?s,Bus,119,3
+750,Otomobil,Automobile,119,4
+751,Oturmak,To sit,4,3
+752,Otuz,Thirty,9,2
+753,?yk?,Story,42,2
+754,?yle,That way,120,Adverbs,2
+755,Oynamak,To play,4,3
+756,Oyun,Game,121,3
+757,Oyuncak,Toy,5,3
+758,?zel,Special,10,2
+759,?zellikle,Especially,44,4
+760,?zg?r,Free (not enslaved),10,2
+761,?zlemek,To miss (someone),2,3
+762,?z?r dilerim,I'm sorry (for a wrong I've done),42,6
+763,Pahal?,Expensive,10,3
+764,Pamuk,Cotton,5,2
+765,Pantolon,Pants,5,4
+766,Para,Money,57,2
+767,Par?a,Part,5,2
+768,Parmak,Finger,50,2
+769,Parti,Party,47,2
+770,Pastane,Bakery,11,3
+771,Patlamak,To explode,122,Actions_Activities,3
+772,Patl?can,Eggplant,51,4
+773,Patron,Employer,123,Occupations,3
+774,Payla_mak,To share,4,3
+775,Pazar,Sunday (or bazaar),8,2
+776,Pazartesi,Monday,8,4
+777,Pek,Very,44,1
+778,Peki,Well,44,2
+779,Pembe,Pink,72,2
+780,Pencere,Window,5,3
+781,Perde,Curtains,5,2
+782,Per_embe,Thursday,8,3
+783,Pe_in,Paid up front (not in installments),10,3
+784,Pi_man,Regretful,10,3
+785,Plan,Plan,49,2
+786,Polis,Police officer,36,2
+787,Portakal,Orange,51,3
+788,Problem,Problem,49,3
+789,Program,Schedule,124,Objects_Things,3
+790,Proje,Project,49,2
+791,Puan,Point (in a game),5,2
+792,Rahat,Comfortable,10,2
+793,Reddetmek,To refuse,4,3
+794,Reklam,Advertisement,49,3
+795,Renk,Color,72,1
+796,Resim,Picture,5,3
+797,Ruh,Spirit,50,1
+798,R?ya,Dream,42,2
+799,R?zg?r,Wind,78,1
+800,Saat,Time,125,Objects_Things,1
+801,Sabah,Morning,8,2
+802,Sab?rl?,Patient,10,3
+803,Sabun,Soap,5,3
+804,Sa?,Hair,50,1
+805,Sade,Plain,126,Adjectives,2
+806,Sadece,Only,44,3
+807,Sa_lamak,To provide,4,3
+808,Sa_l?k,health,49,2
+809,Sa_ol,Thanks,42,2
+810,Sahip,Owner,49,2
+811,Sakin,Calm,10,3
+812,Saklamak,To store,127,Actions_Activities,3
+813,Salatal?k,Cucumber,51,4
+814,Sal?,Tuesday,8,2
+815,Salon,Living room,11,3
+816,Sanat,Art,49,2
+817,Sandalye,Chair,5,3
+818,Saniye,Second,92,3
+819,Sanki,As if,44,2
+820,Sanmak,To think,128,Actions_Activities,2
+821,_ans,Chance,49,1
+822,_apka,Hat,5,2
+823,Sar?,Yellow,72,2
+824,_arj,Charge (for a phone or other device),5,1
+825,_ark?,Song,42,2
+826,_art,Condition,129,Concepts,1
+827,Sat?n almak,To purchase,4,4
+828,Satmak,To sell,4,2
+829,Sava_,War,47,2
+830,Sayfa,Page,5,2
+831,Sayg?,Respect,49,2
+832,Say?,Number,9,2
+833,Sebep,Reason,130,Concepts,2
+834,Sebze,Vegetable,51,2
+835,Se?im,Choice,131,Concepts,3
+836,Se?mek,To choose,4,2
+837,_ehir,City,11,2
+838,Sehpa,Coffee table,5,2
+839,_eker,Sugar,51,2
+840,_ekil,Shape,49,2
+841,Sekiz,Eight,9,2
+842,Seksan,Eighty,9,3
+843,Sene,Year,8,2
+844,Sepet,Basket,5,2
+845,Serbest,Free (independent),10,2
+846,Sert,Hard,132,Adjectives,1
+847,Servis,Shuttle,133,Concepts,2
+848,Ses,Sound,96,1
+849,Ses kayd? yapmak,To record (sound),4,5
+850,Sevgi,Love,2,2
+851,Sevinmek,To rejoice,134,Feelings_Emotions,3
+852,Sevmek,To love,2,2
+853,_ey,Thing,49,1
+854,Seyretmek,To watch,4,3
+855,S?cak,Warm,135,Adjectives,2
+856,_ifre,Password,5,2
+857,Sigara,Cigarette,5,3
+858,Sigorta,Insurance,57,3
+859,_iir,Poem,42,1
+860,_ikayet etmek,To complain,4,5
+861,S?k?lmak,To be bored with,2,3
+862,S?k?nt?,Trouble,2,3
+863,Silah,Weapon,5,2
+864,Silmek,To erase,4,2
+865,_imdi,Now,44,2
+866,S?nav,Exam,47,2
+867,Sinek,Fly (or other similar bug),62,2
+868,S?n?f,Class,48,2
+869,S?n?r,Border,136,Places_Locations,2
+870,Sinirlenmek,To be angry,2,4
+871,Sipari_ vermek,To place an order,4,5
+872,S?ra,Turn,137,Concepts,2
+873,Sirke,Vinegar,51,2
+874,_irket,Company,36,2
+875,S?rt,Back,50,1
+876,_i_e,Bottle,5,2
+877,Sistem,System,49,3
+878,S?v?,Liquid,5,2
+879,Siyah,Black,72,2
+880,Siyaset,Politics,49,3
+881,So_uk,Cold,10,2
+882,Sohbet etmek,To chat,4,4
+883,Sokak,Street,138,Places_Locations,2
+884,Sokmak,To insert,139,Actions_Activities,2
+885,Sol,Left,140,1
+886,Son,Last,10,2
+887,Sonbahar,Fall,8,3
+888,Sonra,After,44,2
+889,Sonsuz,Forever,10,2
+890,Sonu?,Result,49,2
+891,Sormak,To ask,4,2
+892,Soru,Question,42,2
+893,Sorun,Problem,49,3
+894,Sos,Sauce,51,1
+895,Sosyal,Social,10,2
+896,Sote,Saute,51,2
+897,S?ylemek,To say,42,3
+898,S?z,Word,141,Language_Communication,1
+899,Spor yapmak,To exercise,121,3
+900,Su,Water,5,1
+901,_ubat,February,8,2
+902,Su?,Crime,142,Concepts,1
+903,Sunmak,To offer,143,Actions_Activities,2
+904,_?phe,Suspicion,144,Feelings_Emotions,2
+905,S?re,Duration,49,2
+906,S?rekli,Continuously,10,3
+907,S?rmek,To spread,145,Actions_Activities,2
+908,S?rpriz,Surprise,49,2
+909,S?r?c?,Driver,36,3
+910,Susamak,To be thirsty,2,3
+911,S?t,Milk,51,1
+912,Tabak,Plate,5,2
+913,Tabii,Of course,44,2
+914,Tahmin etmek,To predict,4,4
+915,Tahta,Wood,5,2
+916,Tak?m,Team,5,3
+917,Takip etmek,To follow,4,4
+918,Takmak,To hang up,146,Actions_Activities,2
+919,Taksit,Payment in installments,57,2
+920,Talep,Request,4,2
+921,Tam,Exact,147,Adjectives,2
+922,Tamam,Okay,148,Adverbs,3
+923,Tamir etmek,To repair,4,4
+924,Tane,Piece,6,Objects_Things,2
+925,Tan?mak,To know (person),4,3
+926,Tan?_mak,To meet (for the first time),4,3
+927,Taraf,Side,49,2
+928,Tarih,Date,149,Time_Calendar,2
+929,Tart?_mak,To argue,4,3
+930,Tarz,Style,49,1
+931,Ta_,Stone,5,1
+932,Ta_?mak,To carry,150,Actions_Activities,3
+933,Tatil,Vacation,8,2
+934,Tatl?,Sweet,151,Food_Drink,2
+935,Tavan,Ceiling,5,3
+936,Tav_an,Rabbit,62,3
+937,Tavsiye etmek,To recommend,4,5
+938,Taze,Fresh,10,2
+939,Tebrik etmek,To congratulate,4,4
+940,Tedavi,Therapy,4,3
+941,Tehlike,Danger,49,3
+942,Tek,Single,152,Adjectives,1
+943,Teknik,Technical,153,Concepts,2
+944,Teknoloji,Technology,49,4
+945,Tekrar,Again,44,2
+946,Telefon,Telephone,5,4
+947,Televizyon,Television,5,5
+948,Tembel,Lazy,10,2
+949,Temel,Foundation,10,2
+950,Temiz,Clean,10,2
+951,Temizlemek,To clean (something),4,4
+952,Temmuz,July,8,2
+953,Tencere,Pot,5,3
+954,Tepe,Hill,11,2
+955,Tepki,Reaction,49,2
+956,Tepsi,Tray,5,2
+957,Ter,Sweat,50,1
+958,Tercih etmek,To prefer,4,4
+959,Terlik,Slippers,5,2
+960,Ters,Backwards,10,1
+961,Teyze,Aunt (Mother's sister),70,2
+962,Tip,Type,49,1
+963,Top,Ball,5,1
+964,Toplam,Total,10,3
+965,Toplamak,To gather (or add numbers),4,3
+966,Toplant?,Meeting,47,3
+967,Toplum,Society,49,3
+968,Toprak,Dirt,11,2
+969,Toz,Dust (or powder),5,1
+970,Trafik,Traffic,49,2
+971,Tren,Train,119,2
+972,T?m,All,28,Adjectives,2
+973,T?r,Type,49,1
+974,T?rk?e,Turkish,42,2
+975,Turuncu,Orange (the color,154,Colors,3
+976,Tutmak,To catch,155,Actions_Activities,2
+977,Tuvalet,Toilet,11,3
+978,Tuz,Salt,51,1
+979,U?,Point,10,1
+980,??,Three,9,1
+981,U?ak,Airplane,119,2
+982,U?mak,To fly,4,2
+983,?cret,Price (or salary),57,2
+984,???nc?,Third,9,3
+985,Ucuz,Cheap,10,2
+986,Ufak,Tiny,10,2
+987,U_ra_mak,To struggle,4,3
+988,Ula_mak,To arrive,4,3
+989,?lke,Country,11,2
+990,Uluslararas?,International,11,6
+991,Ummak,To hope,2,2
+992,?niversite,University,48,5
+993,?nl?,Famous,10,2
+994,Unutmak,To forget,4,3
+995,?r?n,Product,5,3
+996,Usta,Expert,156,Occupations,2
+997,?_?mek,To be cold,2,3
+998,Utanmak,To be shy,2,3
+999,Uyan?k,Awake,10,3
+1000,?ye,Member,70,2
+1001,Uygulamak,To apply,4,4
+1002,Uygun,Available,10,3
+1003,Uymak,To obey,157,Actions_Activities,2
+1004,Uyumak,To sleep,4,3
+1005,Uzak,Far,10,2
+1006,Uzanmak,To lie down,4,3
+1007,Uzatmak,To extend,4,3
+1008,?zg?n,Sad,10,3
+1009,Uzman,Expert,36,3
+1010,?z?m,Grapes,51,3
+1011,Uzun,Long,158,Adjectives,3
+1012,Vakit,Time,8,2
+1013,Varmak,To arrive,4,2
+1014,Vatanda_,Citizen,70,3
+1015,Vazge?mek,To change one's mind,4,3
+1016,Ve,And,43,1
+1017,Vergi,Tax,57,2
+1018,Vermek,To give,4,2
+1019,Veya,Or,43,2
+1020,V?cut,Body,50,2
+1021,Vurmak,To hit,4,2
+1022,WC,Bathroom (water closet),5,1
+1023,Ya da,Or,42,2
+1024,Yabanc?,Foreigner,70,3
+1025,Ya_,Oil,159,Objects_Things,1
+1026,Ya_mur,Rain,78,2
+1027,Yakalamak,To catch,4,4
+1028,Yak?n,Near,10,3
+1029,Yakla_?k,Approximately,10,3
+1030,Yakla_mak,To get closer,4,3
+1031,Yakmak,To light (a fire,160,Actions_Activities,2
+1032,Yaln?z,Alone,10,2
+1033,Yani,In other words,42,2
+1034,Yan?t,Answer,4,2
+1035,Yanl?_,Wrong,10,2
+1036,Yanmak,To burn,4,2
+1037,Yap?,Structure,5,2
+1038,Yapmak,To do,4,2
+1039,Yaprak,Leaf,5,2
+1040,Yara,Injury,73,2
+1041,Yaratmak,To create,4,3
+1042,Yard?m etmek,To help,4,4
+1043,Yar?m,Half,10,3
+1044,Ya_,Age,8,1
+1045,Yasa,Law,49,2
+1046,Ya_am,Life,49,3
+1047,Ya_amak,To live,4,3
+1048,Ya_l?,Old (person),10,2
+1049,Yatak,Bed,5,2
+1050,Yatmak,To lie down,4,2
+1051,Yava_,Slow,10,2
+1052,Yayg?n,Common,161,Adjectives,3
+1053,Yaz,Summer,8,1
+1054,Yazar,Author,36,2
+1055,Yazmak,To write,4,2
+1056,Yedek,Extra,5,2
+1057,Yedi,Seven,9,2
+1058,Yemek,To Eat,51,2
+1059,Yeni,New,10,2
+1060,Yer,Place,162,Places_Locations,1
+1061,Ye_il,Green,72,2
+1062,Yetenek,Skill,49,3
+1063,Yeterli,Enough,10,3
+1064,Yetmi_,Seventy,9,2
+1065,Y?l,Year,8,1
+1066,Y?lan,Snake,62,3
+1067,Y?ld?z,Star,5,2
+1068,Yine,Again,44,2
+1069,Yirmi,Twenty,9,2
+1070,Yiyecek,Food,51,3
+1071,Yo_un,Thick,163,Adjectives,3
+1072,Yo_urt,Yogurt,51,2
+1073,Yoksa,Or,44,2
+1074,Yol,Road,164,Places_Locations,1
+1075,Y?n,Direction,11,2
+1076,Y?netici,Manager,36,4
+1077,Y?netmek,To lead,4,3
+1078,Y?ntem,Method,49,3
+1079,Yorulmak,To be exhausted,4,3
+1080,Yorum,Comment,42,3
+1081,Y?ksek,High,10,2
+1082,Yumurta,Egg,51,3
+1083,Yumu_ak,Soft,10,3
+1084,Yurt d?_?,Outside the country,11,3
+1085,Yurti?i,Domestic (inside the country),11,3
+1086,Y?r?mek,To walk,4,3
+1087,Yuvarlak,Round,10,3
+1088,Y?z,Face,165,Body_Parts,1
+1089,Y?zde,Percent,49,2
+1090,Y?zy?l,Century,8,2
+1091,Zafer,Victory,49,2
+1092,Zaman,Time,8,3
+1093,Zarar,Damage,49,2
+1094,Zarf,Envelope,166,Objects_Things,1
+1095,Zaten,Anyway,167,Adverbs,3
+1096,Zay?f,Thin,168,Adjectives,2
+1097,Zehir,Poison,5,2
+1098,Zeki,Intelligent,10,2
+1099,Zemin,Ground (floor),11,3
+1100,Zengin,Rich,10,3
+1101,Zevk,Pleasure,49,1
+1102,Zeytin,Olive,51,3
+1103,Zil,Doorbell,5,1
+1104,Zor,Difficult,10,1
+1105,olarak,as,42,3
+1106,ben,I,70,2
+1107,onun,his,70,3
+1108,bu,that,10,1
+1109,diye,he,44,2
+1110,oldu,was,10,2
+1111,i?in,for,44,3
+1112,?zerinde,on,44,4
+1113,vard?r,are,44,2
+1114,ile,with,44,2
+1115,onlar,they,70,2
+1116,var,have,44,1
+1117,dan,from,44,2
+1118,taraf?ndan,by,44,5
+1119,ancak,but,44,2
+1120,oldu_unu,is,44,4
+1121,o,it,70,1
+1122,sen,you,70,2
+1123,vard?,had,44,2
+1124,aras?nda,of,44,4
+1125,i?inde,in,44,3
+1126,biz,we,70,1
+1127,?zerinden,out,44,5
+1128,do,do,44,1
+1129,onlar?n,their,70,4
+1130,e_er,if,44,2
+1131,olacak,will,44,3
+1132,dedi,said,42,2
+1133,s?yle,tell,42,2
+1134,yok,does,44,1
+1135,set,set,44,1
+1136,istiyorum,want,42,5
+1137,iyi,well,10,2
+1138,ayr?ca,also,44,3
+1139,liman,port,11,3
+1140,b?y?,spell,10,2
+1141,ekleyin,add,4,4
+1142,hatta,even,44,2
+1143,arazi,land,11,3
+1144,gerekir,must,44,3
+1145,b?yle,such,44,2
+1146,izleyin,follow,4,4
+1147,erkekler,men,70,3
+1148,de_i_im,change,49,4
+1149,gitti,went,4,2
+1150,?_?k,light,5,2
+1151,kapal?,off,10,3
+1152,gerek,need,44,2
+1153,bizi,us,70,2
+1154,in_a etmek,build,4,4
+1155,?z,self,10,1
+1156,herhangi bir,any,10,4
+1157,i_,work,36,1
+1158,olsun,get,44,3
+1159,yap?lan,made,4,4
+1160,geri,back,44,2
+1161,geldi,came,4,2
+1162,g?sterisi,show,4,4
+1163,bana,me,70,2
+1164,bizim,our,70,3
+1165,alt?nda,under,44,3
+1166,ad?,name,70,2
+1167,formu,form,5,2
+1168,yard?m,help,4,3
+1169,d?_?k,low,10,2
+1170,hat,line,5,1
+1171,d?n?_,turn,4,2
+1172,sa_,right,44,1
+1173,orada,there,44,3
+1174,yukar?,up,44,3
+1175,Kullan?m,use,4,4
+1176,senin,your,70,3
+1177,hakk?nda,about,44,3
+1178,o zaman,then,44,4
+1179,onlar?,them,70,3
+1180,would,would,44,1
+1181,bu y?zden,so,44,4
+1182,onu,her,70,2
+1183,iki,two,9,2
+1184,bak,look,4,1
+1185,daha fazla,more,44,4
+1186,olabilir,could,44,4
+1187,gel,come,4,1
+1188,yapt?m,did,4,3
+1189,numaras?,number,9,4
+1190,insanlar,people,70,3
+1191,benim,my,70,3
+1192,daha,than,44,2
+1193,?a_r?,call,4,2
+1194,ilk,first,9,1
+1195,may,may,8,1
+1196,a_a_?,down,44,3
+1197,yan,side,44,2
+1198,stand?,stand,36,2
+1199,kendi,own,10,2
+1200,bulundu,found,4,3
+1201,cevap,answer,4,2
+1202,?al?_ma,study,4,3
+1203,hala,still,44,2
+1204,?_renmek,learn,4,3
+1205,let,let,44,1
+1206,?apraz,cross,44,2
+1207,?iftlik,farm,11,2
+1208,ba_lang??,start,4,3
+1209,hikaye,story,4,3
+1210,testere,saw,5,3
+1211,?izmek,draw,4,2
+1212,run,run,4,2
+1213,yapamaz,don?t,10,3
+1214,bas?n,press,36,3
+1215,ald?,took,4,2
+1216,arkada_?,friend,70,4
+1217,ba_lad?,began,4,3
+1218,dur,stop,44,1
+1219,bir kez,once,44,2
+1220,baz,base,5,1
+1221,kesim,cut,4,3
+1222,izle,watch,4,2
+1223,ah_ap,wood,5,2
+1224,ana,main,70,2
+1225,sonraki,next,44,3
+1226,ba_la,begin,4,2
+1227,kolayl?_?,ease,10,4
+1228,her ikisi de,both,44,5
+1229,i_areti,mark,5,4
+1230,s?k s?k,often,44,2
+1231,ayaklar,feet,50,3
+1232,bak?m,care,4,3
+1233,ikinci,second,9,3
+1234,ola_an,usual,10,4
+1235,yukar?daki,above,44,5
+1236,hi?,ever,44,1
+1237,listesi,list,5,3
+1238,olsa,though,44,2
+1239,tart?_ma,talk,4,3
+1240,yak?nda,soon,44,3
+1241,do_rudan,direct,44,4
+1242,poz,pose,5,1
+1243,b?rak?n,leave,4,4
+1244,?l?mek,measure,4,2
+1245,rakam,numeral,9,3
+1246,r?zgar,wind,78,2
+1247,komple,complete,10,2
+1248,gemi,ship,5,2
+1249,sipari_,order,4,3
+1250,yang?n,fire,4,3
+1251,s?yledi,told,42,3
+1252,biliyordu,knew,44,4
+1253,beri,since,44,2
+1254,?st,top,10,1
+1255,inch,inch,92,1
+1256,hi?bir _ey,nothing,44,3
+1257,tekerlek,wheel,5,3
+1258,kuvvet,force,49,2
+1259,nesne,object,5,2
+1260,y?zey,surface,5,2
+1261,ada,island,11,2
+1262,me_gul,busy,10,2
+1263,Test,test,4,1
+1264,tekne,boat,5,2
+1265,d?zlem,plane,5,3
+1266,ba_kas?n?n yeri,stead,11,6
+1267,ko_tu,ran,4,2
+1268,kontrol,check,4,2
+1269,oyunu,game,4,3
+1270,?zledim,miss,2,4
+1271,getirdi,brought,4,3
+1272,?s?,heat,78,2
+1273,kar,snow,78,1
+1274,doldurun,fill,4,4
+1275,boya,paint,5,2
+1276,?nitesi,unit,5,4
+1277,ince,fine,10,2
+1278,belirli,certain,10,3
+1279,kur_un,lead,5,3
+1280,notu,note,5,2
+1281,bekleyin,wait,44,4
+1282,plan?,plan,49,2
+1283,i,noun,169,1
+1284,gerisi,rest,49,3
+1285,yetenekli,able,10,4
+1286,kiloluk,pound,92,3
+1287,bitti,done,4,2
+1288,g?zellik,beauty,49,3
+1289,durdu,stood,4,2
+1290,i?eren,contain,4,4
+1291,?n,front,10,2
+1292,nihai,final,10,2
+1293,verdi,gave,4,2
+1294,oh,oh,42,1
+1295,geli_tirmek,develop,4,4
+1296,?cretsiz,free,10,3
+1297,zihin,mind,49,3
+1298,arkas?nda,behind,170,4
+1299,kuyruk,tail,5,2
+1300,?retmek,produce,4,3
+1301,uzay,space,171,2
+1302,duydum,heard,96,3
+1303,en iyi,best,10,3
+1304,daha iyi,better,10,4
+1305,s?ras?nda,during,8,4
+1306,hat?rl?yorum,remember,4,6
+1307,tutun,hold,4,3
+1308,faiz,interest,57,1
+1309,fiil,verb,42,1
+1310,_ark? s?ylemek,sing,4,5
+1311,dinle,listen,4,2
+1312,tablo,table,5,2
+1313,seyahat,travel,4,3
+1314,desen,pattern,49,3
+1315,merkezi,center,170,3
+1316,hizmet,serve,4,2
+1317,g?r?n?r,appear,10,3
+1318,idare,govern,4,3
+1319,?ek,pull,4,1
+1320,av?,hunt,4,2
+1321,muhtemel,probable,10,3
+1322,h?cre,cell,171,2
+1323,inan?yorum,believe,49,6
+1324,ani,sudden,10,2
+1325,saymak,count,4,2
+1326,kare,square,172,2
+1327,uzunluk,length,92,3
+1328,temsil,represent,49,2
+1329,boyut,size,92,2
+1330,yerle_mek,settle,4,3
+1331,a_?rl?k,weight,92,3
+1332,buz,ice,5,1
+1333,?ifti,pair,9,2
+1334,dahil,include,49,2
+1335,hece,syllable,42,2
+1336,ke?e,felt,5,2
+1337,dalga,wave,173,2
+1338,kalp,heart,50,1
+1339,duyuyorum,am,96,5
+1340,mevcut,present,10,2
+1341,dans,dance,4,1
+1342,motor,engine,5,2
+1343,pozisyon,position,4,4
+1344,yelken,sail,5,3
+1345,materyal,material,5,3
+1346,kesir,fraction,174,2
+1347,yar?_,race,4,2
+1348,penceresi,window,5,4
+1349,uyku,sleep,4,2
+1350,kan?tlamak,prove,4,4
+1351,egzersiz,exercise,4,3
+1352,catch,catch,4,1
+1353,dilek,wish,4,2
+1354,g?ky?z?,sky,173,3
+1355,kurulu,board,4,3
+1356,sevin?,joy,2,2
+1357,Cts,sat,175,1
+1358,yaz?l?,written,42,3
+1359,vah_i,wild,10,2
+1360,enstr?man,instrument,5,4
+1361,tuttu,kept,4,2
+1362,?im,grass,173,2
+1363,inek,cow,62,2
+1364,ziyareti,visit,4,4
+1365,e_lenceli,fun,10,4
+1366,parlak,bright,10,2
+1367,umut,hope,2,2
+1368,giydirmek,clothe,4,3
+1369,garip,strange,10,2
+1370,ticaret,trade,4,3
+1371,melodi,melody,176,3
+1372,gezi,trip,4,2
+1373,ofis,office,11,2
+1374,sat?r,row,5,2
+1375,sembol,symbol,5,2
+1376,en az,least,10,2
+1377,hari?,except,44,2
+1378,yazd?,wrote,4,2
+1379,tohum,seed,5,3
+1380,sesi,tone,96,2
+1381,?nermek,suggest,4,3
+1382,molas?,break,4,3
+1383,bayan,lady,70,3
+1384,yarda,yard,11,2
+1385,y?kselecek,rise,4,4
+1386,darbe,blow,4,2
+1387,dokunma,touch,4,3
+1388,b?y?d?,grew,4,3
+1389,tel,wire,5,1
+1390,maliyet,cost,57,3
+1391,kaybetti,lost,4,3
+1392,g?nderildi,sent,4,4
+1393,d?_t?,fell,4,2
+1394,ak?_,flow,4,2
+1395,adil,fair,10,2
+1396,kaydetmek,save,4,3
+1397,kontrol?,control,4,3
+1398,ondal?k,decimal,174,3
+1399,k?rd?,broke,4,2
+1400,dava,case,49,2
+1401,o_lu,son,1,2
+1402,?l?ek,scale,92,2
+1403,y?ksek sesle,loud,44,4
+1404,bahar,spring,8,2
+1405,g?zlemlemek,observe,4,4
+1406,?ns?z,consonant,42,2
+1407,ulus,nation,70,2
+1408,S?zl?k,dictionary,5,2
+1409,h?z,speed,92,1
+1410,Organ,organ,50,3
+1411,?deme,pay,57,3
+1412,elbise,dress,5,3
+1413,bulut,cloud,5,2
+1414,sessiz,quiet,10,2
+1415,k???c?k,tiny,10,3
+1416,t?rman?_,climb,4,3
+1417,serin,cool,10,3
+1418,dizayn,design,4,3
+1419,deneme,experiment,4,3
+1420,alt,bottom,170,1
+1421,anahtar,key,5,3
+1422,demir,iron,5,2
+1423,sopa,stick,5,2
+1424,cilt,skin,50,1
+1425,g?l?mseme,smile,4,4
+1426,k?r?_?k,crease,10,3
+1427,atlama,jump,4,3
+1428,kar_?lamak,meet,4,4
+1429,k?k,root,177,1
+1430,sat?n,buy,4,3
+1431,y?kseltmek,raise,4,3
+1432,it,push,62,1
+1433,paragraf,paragraph,42,3
+1434,Shall,shall,42,1
+1435,tutulan,held,4,4
+1436,tan?mlamak,describe,4,4
+1437,a_??,cook,36,2
+1438,g?venli,safe,10,3
+1439,tipi,type,5,2
+1440,hukuk,law,49,2
+1441,bit,bit,5,1
+1442,sahil,coast,11,2
+1443,kopya,copy,4,2
+1444,ifade,phrase,4,3
+1445,uzun boylu,tall,10,4
+1446,rulo,roll,5,2
+1447,s?cakl?k,temperature,92,3
+1448,sanayi,industry,49,3
+1449,de_eri,value,49,3
+1450,kavga,fight,4,2
+1451,yalan,lie,4,3
+1452,yendi,beat,4,2
+1453,heyecanland?rmak,excite,4,6
+1454,g?r?n?m,view,10,4
+1455,sense,sense,42,2
+1456,sermaye,capital,49,3
+1457,olmaz,won?t,10,2
+1458,s?re?,process,4,2
+1459,i_letmek,operate,4,3
+1460,uygulama,practice,4,4
+1461,?_len,noon,8,3
+1462,k?rpma,crop,4,2
+1463,?a_da_,modern,10,2
+1464,besleme,supply,4,3
+1465,kimin,whose,23,3
+1466,yerle_tirmek,locate,4,4
+1467,halka,ring,5,2
+1468,karakter,character,49,3
+1469,yakaland?,caught,4,4
+1470,d?nemi,period,8,3
+1471,g?stermektedir,indicate,4,5
+1472,radyo,radio,5,2
+1473,konu_tu,spoke,42,3
+1474,atomudur,atom,171,4
+1475,insan,human,70,3
+1476,ge?mi_i,history,8,3
+1477,etkisi,effect,49,3
+1478,bekliyoruz,expect,4,4
+1479,kemik,bone,50,2
+1480,demiryolu,rail,5,4
+1481,hayal,imagine,49,2
+1482,kat?l?yorum,agree,4,6
+1483,b?ylece,thus,44,3
+1484,nazik,gentle,10,2
+1485,kaptan,captain,36,3
+1486,san?r?m,guess,44,4
+1487,keskin,sharp,10,3
+1488,kanat,wing,50,2
+1489,olu_turmak,create,4,4
+1490,kom_u,neighbor,70,2
+1491,y?kama,wash,4,3
+1492,yarasa,bat,62,3
+1493,yerine,rather,170,3
+1494,kar_?la_t?rma,compare,49,5
+1495,dize,string,5,2
+1496,?an,bell,5,2
+1497,ba_l?,depend,10,2
+1498,ovmak,rub,4,2
+1499,t?p,tube,5,1
+1500,dolar,dollar,57,2
+1501,ak?_?,stream,4,3
+1502,korku,fear,2,2
+1503,g?r?_,sight,49,2
+1504,??gen,triangle,172,3
+1505,gezegen,planet,5,4
+1506,acele,hurry,10,3
+1507,koloni,colony,5,3
+1508,may?n,mine,5,3
+1509,kravat,tie,5,2
+1510,girin,enter,4,3
+1511,arama,search,4,3
+1512,gun,gun,5,2
+1513,izin,allow,4,3
+1514,?l?,dead,10,2
+1515,??l,desert,11,1
+1516,tak?m elbise,suit,5,5
+1517,ak?m,current,5,3
+1518,asans?r,lift,5,3
+1519,g?l,rose,177,1
+1520,iz,track,5,1
+1521,ebeveyn,parent,70,4
+1522,k?y?,shore,11,2
+1523,b?l?nme,division,49,3
+1524,levha,sheet,5,2
+1525,iyilik,favor,10,3
+1526,sonras?,post,8,3
+1527,akor,chord,176,2
+1528,_i_man,fat,10,3
+1529,memnun,glad,10,3
+1530,orijinal,original,10,4
+1531,pay?,share,57,2
+1532,istasyon,station,11,4
+1533,bar,bar,11,1
+1534,teklif,offer,4,2
+1535,segmenti,segment,5,3
+1536,k?le,slave,70,2
+1537,?rdek,duck,62,2
+1538,anl?k,instant,10,2
+1539,derecesi,degree,92,4
+1540,civciv,chick,62,2
+1541,sevgili,dear,70,3
+1542,d?_man,enemy,70,3
+1543,i?ki,drink,51,2
+1544,meydana,occur,4,3
+1545,konu_ma,speech,42,3
+1546,do_a,nature,173,2
+1547,aral?_?,range,92,4
+1548,buhar,steam,173,2
+1549,log,log,5,1
+1550,di_ler,teeth,50,2
+1551,kabuk,shell,5,2
+1552,oksijen,oxygen,171,4
+1553,beceri,skill,49,3
+1554,sezon,season,8,3
+1555,m?knat?s,magnet,5,3
+1556,te_ekk?r ederim,thank,42,7
+1557,_ube,branch,5,2
+1558,sonek,suffix,42,2
+1559,incir,fig,51,2
+1560,korkuyor,afraid,2,3
+1561,?elik,steel,5,2
+1562,ileri,forward,10,3
+1563,benzer,similar,10,2
+1564,k?lavuz,guide,36,3
+1565,deneyim,experience,4,4
+1566,sat?n ald?,bought,4,4
+1567,a?t?,led,4,2
+1568,zift,pitch,5,1
+1569,ceket,coat,5,2
+1570,kitle,mass,49,2
+1571,halat,rope,5,2
+1572,kayma,slip,4,2
+1573,win,win,4,2
+1574,durumu,condition,49,3
+1575,beslemek,feed,4,3
+1576,arac?,tool,5,3
+1577,vadi,valley,11,2
+1578,blo_u,block,5,2
+1579,grafi_i,chart,5,3
+1580,anla_ma,deal,4,3
+1581,y?zmek,swim,4,2
+1582,vadeli,term,57,3
+1583,kar_?s?nda,opposite,170,4
+1584,kar?s?,wife,1,3
+1585,omuz,shoulder,50,2
+1586,yaymak,spread,4,2
+1587,kamp,camp,11,1
+1588,icat,invent,4,2
+1589,do_mu_,born,10,2
+1590,belirlemek,determine,4,4
+1591,kuart,quart,5,1
+1592,kamyon,truck,119,3
+1593,g?r?lt?,noise,96,3
+1594,seviyesi,level,49,4
+1595,stre?,stretch,5,1
+1596,parlakl?k,shine,10,3
+1597,m?lkiyet,property,49,3
+1598,s?tun,column,5,3
+1599,molek?l?,molecule,171,4
+1600,se?in,select,4,3
+1601,gerektirir,require,49,4
+1602,haz?rlamak,prepare,4,4
+1603,?o_ul,plural,42,2
+1604,?fke,anger,2,2
+1605,iddia,claim,49,2
+1606,k?ta,continent,11,2
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
+,,,178,
