@@ -5,12 +5,12 @@ This repository presents a bilingual, hybrid system designed to enhance vocabula
 ---
 
 ## 🗂 Repository Structure
-
+```bash
 .
 ├── UnityApp/   # Frontend mobile application built with Unity
 └── Endpoint/   # Backend APIs for behavioral vocabulary analysis
----
 
+---
 ## 📱 UnityApp
 
 This is the mobile-facing component where learners interact with vocabulary exercises and exams. It includes features like:
@@ -75,6 +75,8 @@ Install the following Unity Firebase SDK packages:
 
 These can be downloaded via [Firebase Unity SDK](https://firebase.google.com/docs/unity/setup).
 
+---
+
 ### 🔧 Setup Steps
 
 1. Go to the [Firebase Console](https://console.firebase.google.com/) and create a new project (or use an existing one).
@@ -97,6 +99,8 @@ And make sure `Internet Access` is enabled and `IL2CPP` backend is selected for 
 - **Authentication**: Email/password-based user login & signup
 - **Database**: Syncing student progress, performance, and vocabulary gaps in real time
 
+---
+
 ## ⚙️ Setup & Deployment
 
 ### 🔧 Backend (Endpoint)
@@ -109,6 +113,8 @@ And make sure `Internet Access` is enabled and `IL2CPP` backend is selected for 
 3. Upload the index.php file located in the Endpoint/ folder to your PHP-compatible web server.
 
 4. Ensure your server is running and the file is accessible via a public URL (e.g., https://yourdomain.com/index.php).
+
+---
 
 ### 🔗 Connect Unity to Backend
 1. Open the Unity project located in the UnityApp/ folder.
