@@ -6,7 +6,9 @@ This repository presents a bilingual, hybrid system designed to enhance vocabula
 
 ## 🗂 Repository Structure
 
-. ├── UnityApp/ # Frontend mobile application built with Unity └── Endpoint/ # Backend APIs for behavioral vocabulary analysis
+.
+├── UnityApp/   # Frontend mobile application built with Unity
+└── Endpoint/   # Backend APIs for behavioral vocabulary analysis
 ---
 
 ## 📱 UnityApp
